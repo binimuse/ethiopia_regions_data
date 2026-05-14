@@ -1,0 +1,22 @@
+name: ethiopia_regions_data
+description: >-
+  Lightweight Ethiopian regions, zones, woredas, and cities. Pure Dart, no deps,
+  JSON-backed data for forms and pickers.
+version: 0.2.0
+repository: https://github.com/binimuse/ethiopia_regions_data
+homepage: https://github.com/binimuse/ethiopia_regions_data#readme
+issue_tracker: https://github.com/binimuse/ethiopia_regions_data/issues
+
+environment:
+  sdk: ^3.5.0
+
+topics:
+  - ethiopia
+  - geography
+  - administrative-divisions
+  - location
+  - i18n
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.25.0

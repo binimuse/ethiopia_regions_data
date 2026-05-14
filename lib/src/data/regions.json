@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "regions": [
+    {
+      "id": "addis_ababa",
+      "name": "Addis Ababa",
+      "metadata": { "type": "chartered_city" }
+    },
+    {
+      "id": "afar",
+      "name": "Afar",
+      "metadata": { "type": "regional_state" }
+    },
+    {
+      "id": "amhara",
+      "name": "Amhara",
+      "metadata": { "type": "regional_state" }
+    },
+    {
+      "id": "benishangul_gumuz",
+      "name": "Benishangul-Gumuz",
+      "metadata": { "type": "regional_state" }
+    },
+    {
+      "id": "central_ethiopia",
+      "name": "Central Ethiopia",
+      "metadata": { "type": "regional_state" }
+    },
+    {
+      "id": "dire_dawa",
+      "name": "Dire Dawa",
+      "metadata": { "type": "chartered_city" }
+    },
+    {
+      "id": "gambela",
+      "name": "Gambela",
+      "metadata": { "type": "regional_state" }
+    },
+    {
+      "id": "harari",
+      "name": "Harari",
+      "metadata": { "type": "regional_state" }
+    },
+    {
+      "id": "oromia",
+      "name": "Oromia",
+      "metadata": { "type": "regional_state" }
+    },
+    {
+      "id": "sidama",
+      "name": "Sidama",
+      "metadata": { "type": "regional_state" }
+    },
+    {
+      "id": "special_cluster",
+      "name": "Special Cluster",
+      "metadata": { "type": "special_cluster" }
+    },
+    {
+      "id": "somali",
+      "name": "Somali",
+      "metadata": { "type": "regional_state" }
+    },
+    {
+      "id": "south_west_ethiopia_peoples",
+      "name": "South West Ethiopia Peoples",
+      "metadata": { "type": "regional_state" }
+    },
+    {
+      "id": "southern_ethiopia",
+      "name": "Southern Ethiopia",
+      "metadata": { "type": "regional_state" }
+    },
+    {
+      "id": "tigray",
+      "name": "Tigray",
+      "metadata": { "type": "regional_state" }
+    }
+  ]
+}

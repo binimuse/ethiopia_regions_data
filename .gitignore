@@ -1,0 +1,31 @@
+# See https://dart.dev/guides/libraries/private-files
+
+# Dart
+.dart_tool/
+.packages
+build/
+pubspec.lock
+
+# Flutter
+**/Flutter/ephemeral/
+**/Flutter/flutter_export_environment.sh
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+
+# Coverage / logs
+coverage/
+*.log
+
+# Example (Flutter)
+example/.dart_tool/
+example/build/
+
+# Local tooling / optional top-level data (not package assets under lib/)
+tools/
+src/data/

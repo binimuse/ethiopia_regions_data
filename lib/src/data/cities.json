@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "cities": [
+    {
+      "id": "city_addis_ababa",
+      "name": "Addis Ababa",
+      "regionId": "addis_ababa",
+      "metadata": { "capital": true }
+    },
+    {
+      "id": "city_dire_dawa",
+      "name": "Dire Dawa",
+      "regionId": "dire_dawa",
+      "metadata": {}
+    },
+    {
+      "id": "city_hawassa",
+      "name": "Hawassa",
+      "regionId": "sidama",
+      "metadata": {}
+    },
+    {
+      "id": "city_adama",
+      "name": "Adama",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "city_bahir_dar",
+      "name": "Bahir Dar",
+      "regionId": "amhara",
+      "metadata": {}
+    },
+    {
+      "id": "city_gondar",
+      "name": "Gondar",
+      "regionId": "amhara",
+      "metadata": {}
+    },
+    {
+      "id": "city_mekelle",
+      "name": "Mekelle",
+      "regionId": "tigray",
+      "metadata": {}
+    },
+    {
+      "id": "city_jimma",
+      "name": "Jimma",
+      "regionId": "oromia",
+      "metadata": {}
+    }
+  ]
+}

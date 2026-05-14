@@ -1,0 +1,27 @@
+name: ethiopia_regions_data_example
+description: Example Flutter app demonstrating ethiopia_regions_data pickers.
+publish_to: none
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  ethiopia_regions_data:
+    path: ../
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - packages/ethiopia_regions_data/src/data/regions.json
+    - packages/ethiopia_regions_data/src/data/zones.json
+    - packages/ethiopia_regions_data/src/data/woredas.json
+    - packages/ethiopia_regions_data/src/data/cities.json

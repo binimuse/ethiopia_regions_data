@@ -1,0 +1,913 @@
+{
+  "schemaVersion": 1,
+  "zones": [
+    {
+      "id": "oro_adama_liyu_zone",
+      "name": "Adama Liyu Zone",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "aa_addis_ketema_subcity",
+      "name": "Addis Ketema Subcity",
+      "regionId": "addis_ababa",
+      "metadata": {
+        "administrativeType": "subcity"
+      }
+    },
+    {
+      "id": "som_afder",
+      "name": "Afder",
+      "regionId": "somali",
+      "metadata": {}
+    },
+    {
+      "id": "oro_agaro_city_administration",
+      "name": "Agaro city administration",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "aa_akaki_kaliti_subcity",
+      "name": "Akaki Kaliti Subcity",
+      "regionId": "addis_ababa",
+      "metadata": {
+        "administrativeType": "subcity"
+      }
+    },
+    {
+      "id": "seth_alle",
+      "name": "Alle",
+      "regionId": "southern_ethiopia",
+      "metadata": {}
+    },
+    {
+      "id": "oro_ambo_city_admin",
+      "name": "Ambo City Admin",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "gmb_anuak",
+      "name": "Anuak",
+      "regionId": "gambela",
+      "metadata": {}
+    },
+    {
+      "id": "aa_arada_subcity",
+      "name": "Arada Subcity",
+      "regionId": "addis_ababa",
+      "metadata": {
+        "administrativeType": "subcity"
+      }
+    },
+    {
+      "id": "seth_ari_zone",
+      "name": "Ari Zone",
+      "regionId": "southern_ethiopia",
+      "metadata": {}
+    },
+    {
+      "id": "oro_arsi",
+      "name": "Arsi",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "oro_asela_liyu_zone",
+      "name": "Asela Liyu Zone",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "bsg_assosa",
+      "name": "Assosa",
+      "regionId": "benishangul_gumuz",
+      "metadata": {}
+    },
+    {
+      "id": "amh_awi",
+      "name": "Awi",
+      "regionId": "amhara",
+      "metadata": {}
+    },
+    {
+      "id": "amh_bahir_dar_city_administration",
+      "name": "Bahir Dar City Administration",
+      "regionId": "amhara",
+      "metadata": {}
+    },
+    {
+      "id": "seth_basketo",
+      "name": "Basketo",
+      "regionId": "southern_ethiopia",
+      "metadata": {}
+    },
+    {
+      "id": "oro_batu_liyu_zone",
+      "name": "Batu Liyu Zone",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "swep_bench_sheko",
+      "name": "Bench Sheko",
+      "regionId": "south_west_ethiopia_peoples",
+      "metadata": {}
+    },
+    {
+      "id": "oro_bishan_guracha_liyu_zone",
+      "name": "Bishan Guracha Liyu Zone",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "oro_bishoftu",
+      "name": "Bishoftu",
+      "regionId": "oromia",
+      "metadata": {
+        "subCityPicker": true
+      }
+    },
+    {
+      "id": "aa_bole_subcity",
+      "name": "Bole Subcity",
+      "regionId": "addis_ababa",
+      "metadata": {
+        "administrativeType": "subcity"
+      }
+    },
+    {
+      "id": "oro_borena",
+      "name": "Borena",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "oro_bule_hora_town",
+      "name": "Bule Hora Town",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "oro_buno_bedele",
+      "name": "Buno Bedele",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "seth_burji",
+      "name": "Burji",
+      "regionId": "southern_ethiopia",
+      "metadata": {}
+    },
+    {
+      "id": "amh_central_gonder",
+      "name": "Central Gonder",
+      "regionId": "amhara",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_central_sidama",
+      "name": "Central Sidama",
+      "regionId": "sidama",
+      "metadata": {}
+    },
+    {
+      "id": "som_dawa",
+      "name": "Dawa",
+      "regionId": "somali",
+      "metadata": {}
+    },
+    {
+      "id": "swep_dawro",
+      "name": "Dawro",
+      "regionId": "south_west_ethiopia_peoples",
+      "metadata": {}
+    },
+    {
+      "id": "amh_debre_markos_city_admin",
+      "name": "Debre Markos City Admin",
+      "regionId": "amhara",
+      "metadata": {}
+    },
+    {
+      "id": "amh_debre_tabor_city_admin",
+      "name": "Debre Tabor City Admin",
+      "regionId": "amhara",
+      "metadata": {}
+    },
+    {
+      "id": "amh_debre_birhan_town_administration",
+      "name": "Debre birhan Town Administration",
+      "regionId": "amhara",
+      "metadata": {}
+    },
+    {
+      "id": "amh_dessie_town_administration",
+      "name": "Dessie Town Administration",
+      "regionId": "amhara",
+      "metadata": {}
+    },
+    {
+      "id": "seth_dilla_city_admin",
+      "name": "Dilla City Admin",
+      "regionId": "southern_ethiopia",
+      "metadata": {}
+    },
+    {
+      "id": "dd_dire_dawa",
+      "name": "Dire Dawa",
+      "regionId": "dire_dawa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_dodola_town",
+      "name": "Dodola Town",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "som_dollo",
+      "name": "Dollo",
+      "regionId": "somali",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_arsi",
+      "name": "East Arsi",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_bale",
+      "name": "East Bale",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_borena",
+      "name": "East Borena",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "amh_east_gojjam",
+      "name": "East Gojjam",
+      "regionId": "amhara",
+      "metadata": {}
+    },
+    {
+      "id": "cet_east_gurage",
+      "name": "East Gurage",
+      "regionId": "central_ethiopia",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_hararge",
+      "name": "East Hararge",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_shewa",
+      "name": "East Shewa",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_east_sidama",
+      "name": "East Sidama",
+      "regionId": "sidama",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_wollega",
+      "name": "East Wollega",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_eastawi",
+      "name": "Eastawi",
+      "regionId": "tigray",
+      "metadata": {}
+    },
+    {
+      "id": "som_erer",
+      "name": "Erer",
+      "regionId": "somali",
+      "metadata": {}
+    },
+    {
+      "id": "som_fafan",
+      "name": "Fafan",
+      "regionId": "somali",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gamo",
+      "name": "Gamo",
+      "regionId": "southern_ethiopia",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gardula",
+      "name": "Gardula",
+      "regionId": "southern_ethiopia",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gedeo",
+      "name": "Gedeo",
+      "regionId": "southern_ethiopia",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gofa",
+      "name": "Gofa",
+      "regionId": "southern_ethiopia",
+      "metadata": {}
+    },
+    {
+      "id": "amh_gondar_town_administration",
+      "name": "Gondar Town Administration",
+      "regionId": "amhara",
+      "metadata": {}
+    },
+    {
+      "id": "oro_guji",
+      "name": "Guji",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "aa_gulele_subcity",
+      "name": "Gulele Subcity",
+      "regionId": "addis_ababa",
+      "metadata": {
+        "administrativeType": "subcity"
+      }
+    },
+    {
+      "id": "cet_gurage",
+      "name": "Gurage",
+      "regionId": "central_ethiopia",
+      "metadata": {}
+    },
+    {
+      "id": "cet_hadiya",
+      "name": "Hadiya",
+      "regionId": "central_ethiopia",
+      "metadata": {}
+    },
+    {
+      "id": "cet_halaba",
+      "name": "Halaba",
+      "regionId": "central_ethiopia",
+      "metadata": {}
+    },
+    {
+      "id": "har_hareri",
+      "name": "Hareri",
+      "regionId": "harari",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_hawassa_city_admnistration",
+      "name": "Hawassa City Admnistration",
+      "regionId": "sidama",
+      "metadata": {}
+    },
+    {
+      "id": "oro_holeta_city_admin",
+      "name": "Holeta City Admin",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "oro_horo_guduru_wollega",
+      "name": "Horo Guduru Wollega",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "oro_ilu_ababor",
+      "name": "Ilu Ababor",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "gmb_itang_special",
+      "name": "Itang Special",
+      "regionId": "gambela",
+      "metadata": {}
+    },
+    {
+      "id": "som_jerer",
+      "name": "Jerer",
+      "regionId": "somali",
+      "metadata": {}
+    },
+    {
+      "id": "oro_jimma",
+      "name": "Jimma",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "oro_jimma_liyu",
+      "name": "Jimma Liyu",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "cet_kabena_liyu",
+      "name": "Kabena Liyu",
+      "regionId": "central_ethiopia",
+      "metadata": {}
+    },
+    {
+      "id": "swep_kefa",
+      "name": "Kefa",
+      "regionId": "south_west_ethiopia_peoples",
+      "metadata": {}
+    },
+    {
+      "id": "oro_kelem_wollega",
+      "name": "Kelem Wollega",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "bsg_kemashi",
+      "name": "Kemashi",
+      "regionId": "benishangul_gumuz",
+      "metadata": {}
+    },
+    {
+      "id": "cet_kembata",
+      "name": "Kembata",
+      "regionId": "central_ethiopia",
+      "metadata": {}
+    },
+    {
+      "id": "aa_kerkos",
+      "name": "Kerkos",
+      "regionId": "addis_ababa",
+      "metadata": {
+        "administrativeType": "subcity"
+      }
+    },
+    {
+      "id": "aa_kolfe_keraniyo_subcity",
+      "name": "Kolfe Keraniyo Subcity",
+      "regionId": "addis_ababa",
+      "metadata": {
+        "administrativeType": "subcity"
+      }
+    },
+    {
+      "id": "amh_kombolcha_town_administration",
+      "name": "Kombolcha Town Administration",
+      "regionId": "amhara",
+      "metadata": {}
+    },
+    {
+      "id": "seth_konso",
+      "name": "Konso",
+      "regionId": "southern_ethiopia",
+      "metadata": {}
+    },
+    {
+      "id": "swep_konta",
+      "name": "Konta",
+      "regionId": "south_west_ethiopia_peoples",
+      "metadata": {}
+    },
+    {
+      "id": "som_korahe",
+      "name": "Korahe",
+      "regionId": "somali",
+      "metadata": {}
+    },
+    {
+      "id": "aa_lemi_kura_sub_city",
+      "name": "Lemi kura sub city",
+      "regionId": "addis_ababa",
+      "metadata": {
+        "administrativeType": "subcity"
+      }
+    },
+    {
+      "id": "som_liben",
+      "name": "Liben",
+      "regionId": "somali",
+      "metadata": {}
+    },
+    {
+      "id": "aa_lideta",
+      "name": "Lideta",
+      "regionId": "addis_ababa",
+      "metadata": {
+        "administrativeType": "subcity"
+      }
+    },
+    {
+      "id": "afr_mahiresu_zone_6",
+      "name": "Mahiresu (Zone_6)",
+      "regionId": "afar",
+      "metadata": {}
+    },
+    {
+      "id": "bsg_mao_ena_komo",
+      "name": "Mao Ena Komo",
+      "regionId": "benishangul_gumuz",
+      "metadata": {}
+    },
+    {
+      "id": "cet_mareko_liyu",
+      "name": "Mareko Liyu",
+      "regionId": "central_ethiopia",
+      "metadata": {}
+    },
+    {
+      "id": "oro_maya_city",
+      "name": "Maya City",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_mehakelawi",
+      "name": "Mehakelawi",
+      "regionId": "tigray",
+      "metadata": {}
+    },
+    {
+      "id": "gmb_mejenger",
+      "name": "Mejenger",
+      "regionId": "gambela",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_mekele",
+      "name": "Mekele",
+      "regionId": "tigray",
+      "metadata": {}
+    },
+    {
+      "id": "bsg_metekel",
+      "name": "Metekel",
+      "regionId": "benishangul_gumuz",
+      "metadata": {}
+    },
+    {
+      "id": "oro_metu_city_admistration",
+      "name": "Metu City Admistration",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "oro_modjo_liyu_zone",
+      "name": "Modjo Liyu Zone",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "oro_moyale_town",
+      "name": "Moyale Town",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "oro_nedjo_city_admin",
+      "name": "Nedjo City Admin",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "oro_nekemte_city_admin",
+      "name": "Nekemte City Admin",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "aa_nifas_slik_lafto_subcity",
+      "name": "Nifas Slik Lafto Subcity",
+      "regionId": "addis_ababa",
+      "metadata": {
+        "administrativeType": "subcity"
+      }
+    },
+    {
+      "id": "som_nogob",
+      "name": "Nogob",
+      "regionId": "somali",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_gojjam",
+      "name": "North Gojjam",
+      "regionId": "amhara",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_gonder",
+      "name": "North Gonder",
+      "regionId": "amhara",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_shewa",
+      "name": "North Shewa",
+      "regionId": "amhara",
+      "metadata": {}
+    },
+    {
+      "id": "oro_north_shewa",
+      "name": "North Shewa",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_north_sidama",
+      "name": "North Sidama",
+      "regionId": "sidama",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_wello",
+      "name": "North Wello",
+      "regionId": "amhara",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_north_west",
+      "name": "North West",
+      "regionId": "tigray",
+      "metadata": {}
+    },
+    {
+      "id": "gmb_nuer",
+      "name": "Nuer",
+      "regionId": "gambela",
+      "metadata": {}
+    },
+    {
+      "id": "amh_oromiya_liyu_zone",
+      "name": "Oromiya Liyu Zone",
+      "regionId": "amhara",
+      "metadata": {}
+    },
+    {
+      "id": "oro_robe_liyu_zone",
+      "name": "Robe Liyu Zone",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "oro_robe_city",
+      "name": "Robe city",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "afr_semera_logia_city",
+      "name": "Semera Logia City",
+      "regionId": "afar",
+      "metadata": {}
+    },
+    {
+      "id": "oro_sendafa_bake_liyu_zone",
+      "name": "Sendafa Bake Liyu Zone",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "oro_shakiso_town",
+      "name": "Shakiso Town",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "oro_shashemane_town",
+      "name": "Shashemane Town",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "som_shebele",
+      "name": "Shebele",
+      "regionId": "somali",
+      "metadata": {}
+    },
+    {
+      "id": "oro_sheger",
+      "name": "Sheger",
+      "regionId": "oromia",
+      "metadata": {
+        "subCityPicker": true
+      }
+    },
+    {
+      "id": "swep_sheka",
+      "name": "Sheka",
+      "regionId": "south_west_ethiopia_peoples",
+      "metadata": {}
+    },
+    {
+      "id": "cet_silte",
+      "name": "Silte",
+      "regionId": "central_ethiopia",
+      "metadata": {}
+    },
+    {
+      "id": "som_siti",
+      "name": "Siti",
+      "regionId": "somali",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_south_east",
+      "name": "South East",
+      "regionId": "tigray",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_gonder",
+      "name": "South Gonder",
+      "regionId": "amhara",
+      "metadata": {}
+    },
+    {
+      "id": "seth_south_omo",
+      "name": "South Omo",
+      "regionId": "southern_ethiopia",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_south_sidama",
+      "name": "South Sidama",
+      "regionId": "sidama",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_wello",
+      "name": "South Wello",
+      "regionId": "amhara",
+      "metadata": {}
+    },
+    {
+      "id": "oro_south_west_shewa",
+      "name": "South West Shewa",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_southawi",
+      "name": "Southawi",
+      "regionId": "tigray",
+      "metadata": {}
+    },
+    {
+      "id": "cet_tembaro_leyu",
+      "name": "Tembaro Leyu",
+      "regionId": "central_ethiopia",
+      "metadata": {}
+    },
+    {
+      "id": "amh_waghimra",
+      "name": "Waghimra",
+      "regionId": "amhara",
+      "metadata": {}
+    },
+    {
+      "id": "amh_weldiya_city_admin",
+      "name": "Weldiya City Admin",
+      "regionId": "amhara",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_arsi",
+      "name": "West Arsi",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_bale",
+      "name": "West Bale",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "amh_west_gojjam",
+      "name": "West Gojjam",
+      "regionId": "amhara",
+      "metadata": {}
+    },
+    {
+      "id": "amh_west_gonder",
+      "name": "West Gonder",
+      "regionId": "amhara",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_guji",
+      "name": "West Guji",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_hararghe",
+      "name": "West Hararghe",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "swep_west_omo",
+      "name": "West Omo",
+      "regionId": "south_west_ethiopia_peoples",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_shewa",
+      "name": "West Shewa",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_wollega",
+      "name": "West Wollega",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "sc_westawi",
+      "name": "Westawi",
+      "regionId": "special_cluster",
+      "metadata": {}
+    },
+    {
+      "id": "seth_wolayta",
+      "name": "Wolayta",
+      "regionId": "southern_ethiopia",
+      "metadata": {}
+    },
+    {
+      "id": "oro_woliso_city_admin",
+      "name": "Woliso City Admin",
+      "regionId": "oromia",
+      "metadata": {}
+    },
+    {
+      "id": "aa_yeka_subcity",
+      "name": "Yeka Subcity",
+      "regionId": "addis_ababa",
+      "metadata": {
+        "administrativeType": "subcity"
+      }
+    },
+    {
+      "id": "cet_yem",
+      "name": "Yem",
+      "regionId": "central_ethiopia",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_1_awsiresu",
+      "name": "Zone_1(Awsiresu)",
+      "regionId": "afar",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_2_kelbetiresu",
+      "name": "Zone_2 (Kelbetiresu)",
+      "regionId": "afar",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_3_gebiresu",
+      "name": "Zone_3 (Gebiresu)",
+      "regionId": "afar",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_4_fentiresu",
+      "name": "Zone_4 (Fentiresu)",
+      "regionId": "afar",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_5_hari_resu",
+      "name": "Zone_5 (Hari Resu)",
+      "regionId": "afar",
+      "metadata": {}
+    },
+    {
+      "id": "seth_kore",
+      "name": "kore",
+      "regionId": "southern_ethiopia",
+      "metadata": {}
+    }
+  ]
+}

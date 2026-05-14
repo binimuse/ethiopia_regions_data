@@ -1,0 +1,8189 @@
+{
+  "schemaVersion": 1,
+  "woredas": [
+    {
+      "id": "aa_gulele_subcity_woreda_01",
+      "name": "woreda 01",
+      "zoneId": "aa_gulele_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_gulele_subcity_woreda_02",
+      "name": "woreda 02",
+      "zoneId": "aa_gulele_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_gulele_subcity_woreda_03",
+      "name": "woreda 03",
+      "zoneId": "aa_gulele_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_gulele_subcity_woreda_04",
+      "name": "woreda 04",
+      "zoneId": "aa_gulele_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_gulele_subcity_woreda_05",
+      "name": "woreda 05",
+      "zoneId": "aa_gulele_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_gulele_subcity_woreda_06",
+      "name": "woreda 06",
+      "zoneId": "aa_gulele_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_gulele_subcity_woreda_07",
+      "name": "woreda 07",
+      "zoneId": "aa_gulele_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_gulele_subcity_woreda_08",
+      "name": "woreda 08",
+      "zoneId": "aa_gulele_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_gulele_subcity_woreda_09",
+      "name": "woreda 09",
+      "zoneId": "aa_gulele_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_gulele_subcity_woreda_10",
+      "name": "woreda 10",
+      "zoneId": "aa_gulele_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_addis_ketema_subcity_woreda_01",
+      "name": "woreda 01",
+      "zoneId": "aa_addis_ketema_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_addis_ketema_subcity_woreda_03",
+      "name": "woreda 03",
+      "zoneId": "aa_addis_ketema_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_addis_ketema_subcity_woreda_04",
+      "name": "woreda 04",
+      "zoneId": "aa_addis_ketema_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_addis_ketema_subcity_woreda_05",
+      "name": "woreda 05",
+      "zoneId": "aa_addis_ketema_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_addis_ketema_subcity_woreda_06",
+      "name": "woreda 06",
+      "zoneId": "aa_addis_ketema_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_addis_ketema_subcity_woreda_08",
+      "name": "woreda 08",
+      "zoneId": "aa_addis_ketema_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_addis_ketema_subcity_woreda_09",
+      "name": "woreda 09",
+      "zoneId": "aa_addis_ketema_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_addis_ketema_subcity_woreda_10",
+      "name": "woreda 10",
+      "zoneId": "aa_addis_ketema_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_addis_ketema_subcity_woreda_11",
+      "name": "woreda 11",
+      "zoneId": "aa_addis_ketema_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_addis_ketema_subcity_woreda_12",
+      "name": "woreda 12",
+      "zoneId": "aa_addis_ketema_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_addis_ketema_subcity_woreda_13",
+      "name": "woreda 13",
+      "zoneId": "aa_addis_ketema_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_addis_ketema_subcity_woreda_14",
+      "name": "woreda 14",
+      "zoneId": "aa_addis_ketema_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_kolfe_keraniyo_subcity_woreda_01",
+      "name": "woreda 01",
+      "zoneId": "aa_kolfe_keraniyo_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_kolfe_keraniyo_subcity_woreda_02",
+      "name": "woreda 02",
+      "zoneId": "aa_kolfe_keraniyo_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_kolfe_keraniyo_subcity_woreda_03",
+      "name": "woreda 03",
+      "zoneId": "aa_kolfe_keraniyo_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_kolfe_keraniyo_subcity_woreda_04",
+      "name": "woreda 04",
+      "zoneId": "aa_kolfe_keraniyo_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_kolfe_keraniyo_subcity_woreda_05",
+      "name": "woreda 05",
+      "zoneId": "aa_kolfe_keraniyo_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_kolfe_keraniyo_subcity_woreda_06",
+      "name": "woreda 06",
+      "zoneId": "aa_kolfe_keraniyo_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_kolfe_keraniyo_subcity_woreda_07",
+      "name": "woreda 07",
+      "zoneId": "aa_kolfe_keraniyo_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_kolfe_keraniyo_subcity_woreda_08",
+      "name": "woreda 08",
+      "zoneId": "aa_kolfe_keraniyo_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_kolfe_keraniyo_subcity_woreda_09",
+      "name": "woreda 09",
+      "zoneId": "aa_kolfe_keraniyo_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_kolfe_keraniyo_subcity_woreda_10",
+      "name": "woreda 10",
+      "zoneId": "aa_kolfe_keraniyo_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_kolfe_keraniyo_subcity_woreda_11",
+      "name": "woreda 11",
+      "zoneId": "aa_kolfe_keraniyo_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_lideta_woreda_01",
+      "name": "woreda 01",
+      "zoneId": "aa_lideta",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_lideta_woreda_02",
+      "name": "woreda 02",
+      "zoneId": "aa_lideta",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_lideta_woreda_03",
+      "name": "woreda 03",
+      "zoneId": "aa_lideta",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_lideta_woreda_04",
+      "name": "woreda 04",
+      "zoneId": "aa_lideta",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_lideta_woreda_05",
+      "name": "woreda 05",
+      "zoneId": "aa_lideta",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_lideta_woreda_06",
+      "name": "woreda 06",
+      "zoneId": "aa_lideta",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_lideta_woreda_07",
+      "name": "woreda 07",
+      "zoneId": "aa_lideta",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_lideta_woreda_08",
+      "name": "woreda 08",
+      "zoneId": "aa_lideta",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_lideta_woreda_09",
+      "name": "woreda 09",
+      "zoneId": "aa_lideta",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_lideta_woreda_10",
+      "name": "woreda 10",
+      "zoneId": "aa_lideta",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_kerkos_woreda_01",
+      "name": "woreda 01",
+      "zoneId": "aa_kerkos",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_kerkos_woreda_02",
+      "name": "woreda 02",
+      "zoneId": "aa_kerkos",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_kerkos_woreda_03",
+      "name": "woreda 03",
+      "zoneId": "aa_kerkos",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_kerkos_woreda_04",
+      "name": "woreda 04",
+      "zoneId": "aa_kerkos",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_kerkos_woreda_05",
+      "name": "woreda 05",
+      "zoneId": "aa_kerkos",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_kerkos_woreda_07",
+      "name": "woreda 07",
+      "zoneId": "aa_kerkos",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_kerkos_woreda_08",
+      "name": "woreda 08",
+      "zoneId": "aa_kerkos",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_kerkos_woreda_09",
+      "name": "woreda 09",
+      "zoneId": "aa_kerkos",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_kerkos_woreda_10",
+      "name": "woreda 10",
+      "zoneId": "aa_kerkos",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_kerkos_woreda_11",
+      "name": "woreda 11",
+      "zoneId": "aa_kerkos",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_arada_subcity_woreda_01",
+      "name": "woreda 01",
+      "zoneId": "aa_arada_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_arada_subcity_woreda_02",
+      "name": "woreda 02",
+      "zoneId": "aa_arada_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_arada_subcity_woreda_04",
+      "name": "woreda 04",
+      "zoneId": "aa_arada_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_arada_subcity_woreda_06",
+      "name": "woreda 06",
+      "zoneId": "aa_arada_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_arada_subcity_woreda_07",
+      "name": "woreda 07",
+      "zoneId": "aa_arada_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_arada_subcity_woreda_08",
+      "name": "woreda 08",
+      "zoneId": "aa_arada_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_arada_subcity_woreda_09",
+      "name": "woreda 09",
+      "zoneId": "aa_arada_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_arada_subcity_woreda_05",
+      "name": "woreda 05",
+      "zoneId": "aa_arada_subcity",
+      "metadata": {
+        "urban": true,
+        "note": "arada lay yemistekakel ale"
+      }
+    },
+    {
+      "id": "aa_yeka_subcity_woreda_01",
+      "name": "woreda 01",
+      "zoneId": "aa_yeka_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_yeka_subcity_woreda_02",
+      "name": "woreda 02",
+      "zoneId": "aa_yeka_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_yeka_subcity_woreda_03",
+      "name": "woreda 03",
+      "zoneId": "aa_yeka_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_yeka_subcity_woreda_04",
+      "name": "woreda 04",
+      "zoneId": "aa_yeka_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_yeka_subcity_woreda_05",
+      "name": "woreda 05",
+      "zoneId": "aa_yeka_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_yeka_subcity_woreda_06",
+      "name": "woreda 06",
+      "zoneId": "aa_yeka_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_yeka_subcity_woreda_07",
+      "name": "woreda 07",
+      "zoneId": "aa_yeka_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_yeka_subcity_woreda_08",
+      "name": "woreda 08",
+      "zoneId": "aa_yeka_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_yeka_subcity_woreda_09",
+      "name": "woreda 09",
+      "zoneId": "aa_yeka_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_yeka_subcity_woreda_10",
+      "name": "woreda 10",
+      "zoneId": "aa_yeka_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_yeka_subcity_woreda_11",
+      "name": "woreda 11",
+      "zoneId": "aa_yeka_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_yeka_subcity_woreda_12",
+      "name": "woreda 12",
+      "zoneId": "aa_yeka_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_bole_subcity_woreda_01",
+      "name": "woreda 01",
+      "zoneId": "aa_bole_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_bole_subcity_woreda_02",
+      "name": "woreda 02",
+      "zoneId": "aa_bole_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_bole_subcity_woreda_03",
+      "name": "woreda 03",
+      "zoneId": "aa_bole_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_bole_subcity_woreda_04",
+      "name": "woreda 04",
+      "zoneId": "aa_bole_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_bole_subcity_woreda_05",
+      "name": "woreda 05",
+      "zoneId": "aa_bole_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_bole_subcity_woreda_06",
+      "name": "woreda 06",
+      "zoneId": "aa_bole_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_bole_subcity_woreda_07",
+      "name": "woreda 07",
+      "zoneId": "aa_bole_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_bole_subcity_woreda_11",
+      "name": "woreda 11",
+      "zoneId": "aa_bole_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_bole_subcity_woreda_12",
+      "name": "woreda 12",
+      "zoneId": "aa_bole_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_bole_subcity_woreda_13",
+      "name": "woreda 13",
+      "zoneId": "aa_bole_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_bole_subcity_woreda_14",
+      "name": "woreda 14",
+      "zoneId": "aa_bole_subcity",
+      "metadata": {
+        "urban": true,
+        "note": "besihitet yetechemere ale"
+      }
+    },
+    {
+      "id": "aa_nifas_slik_lafto_subcity_jemo_01",
+      "name": "Jemo 01",
+      "zoneId": "aa_nifas_slik_lafto_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_nifas_slik_lafto_subcity_lebu_01",
+      "name": "Lebu 01",
+      "zoneId": "aa_nifas_slik_lafto_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_nifas_slik_lafto_subcity_woreda_02",
+      "name": "woreda 02",
+      "zoneId": "aa_nifas_slik_lafto_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_nifas_slik_lafto_subcity_woreda_05",
+      "name": "woreda 05",
+      "zoneId": "aa_nifas_slik_lafto_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_nifas_slik_lafto_subcity_woreda_06",
+      "name": "woreda 06",
+      "zoneId": "aa_nifas_slik_lafto_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_nifas_slik_lafto_subcity_woreda_07",
+      "name": "woreda 07",
+      "zoneId": "aa_nifas_slik_lafto_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_nifas_slik_lafto_subcity_woreda_08",
+      "name": "woreda 08",
+      "zoneId": "aa_nifas_slik_lafto_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_nifas_slik_lafto_subcity_woreda_09",
+      "name": "woreda 09",
+      "zoneId": "aa_nifas_slik_lafto_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_nifas_slik_lafto_subcity_woreda_10",
+      "name": "woreda 10",
+      "zoneId": "aa_nifas_slik_lafto_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_nifas_slik_lafto_subcity_woreda_11",
+      "name": "woreda 11",
+      "zoneId": "aa_nifas_slik_lafto_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_nifas_slik_lafto_subcity_woreda_12",
+      "name": "woreda 12",
+      "zoneId": "aa_nifas_slik_lafto_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_nifas_slik_lafto_subcity_woreda_13",
+      "name": "woreda 13",
+      "zoneId": "aa_nifas_slik_lafto_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_nifas_slik_lafto_subcity_woreda_15",
+      "name": "woreda 15",
+      "zoneId": "aa_nifas_slik_lafto_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_akaki_kaliti_subcity_woreda_01",
+      "name": "woreda 01",
+      "zoneId": "aa_akaki_kaliti_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_akaki_kaliti_subcity_woreda_02",
+      "name": "woreda 02",
+      "zoneId": "aa_akaki_kaliti_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_akaki_kaliti_subcity_woreda_03",
+      "name": "woreda 03",
+      "zoneId": "aa_akaki_kaliti_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_akaki_kaliti_subcity_woreda_04",
+      "name": "woreda 04",
+      "zoneId": "aa_akaki_kaliti_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_akaki_kaliti_subcity_woreda_05",
+      "name": "woreda 05",
+      "zoneId": "aa_akaki_kaliti_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_akaki_kaliti_subcity_woreda_06",
+      "name": "woreda 06",
+      "zoneId": "aa_akaki_kaliti_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_akaki_kaliti_subcity_woreda_07",
+      "name": "woreda 07",
+      "zoneId": "aa_akaki_kaliti_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_akaki_kaliti_subcity_woreda_08",
+      "name": "woreda 08",
+      "zoneId": "aa_akaki_kaliti_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_akaki_kaliti_subcity_woreda_09",
+      "name": "woreda 09",
+      "zoneId": "aa_akaki_kaliti_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_akaki_kaliti_subcity_woreda_10",
+      "name": "woreda 10",
+      "zoneId": "aa_akaki_kaliti_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_akaki_kaliti_subcity_woreda_12",
+      "name": "woreda 12",
+      "zoneId": "aa_akaki_kaliti_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_akaki_kaliti_subcity_woreda_13",
+      "name": "woreda 13",
+      "zoneId": "aa_akaki_kaliti_subcity",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_lemi_kura_sub_city_woreda_02",
+      "name": "woreda 02",
+      "zoneId": "aa_lemi_kura_sub_city",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_lemi_kura_sub_city_woreda_03",
+      "name": "woreda 03",
+      "zoneId": "aa_lemi_kura_sub_city",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_lemi_kura_sub_city_woreda_04",
+      "name": "woreda 04",
+      "zoneId": "aa_lemi_kura_sub_city",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_lemi_kura_sub_city_woreda_05",
+      "name": "woreda 05",
+      "zoneId": "aa_lemi_kura_sub_city",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_lemi_kura_sub_city_woreda_06",
+      "name": "woreda 06",
+      "zoneId": "aa_lemi_kura_sub_city",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_lemi_kura_sub_city_woreda_08",
+      "name": "woreda 08",
+      "zoneId": "aa_lemi_kura_sub_city",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_lemi_kura_sub_city_woreda_09",
+      "name": "woreda 09",
+      "zoneId": "aa_lemi_kura_sub_city",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_lemi_kura_sub_city_woreda_10",
+      "name": "woreda 10",
+      "zoneId": "aa_lemi_kura_sub_city",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_lemi_kura_sub_city_woreda_13",
+      "name": "woreda 13",
+      "zoneId": "aa_lemi_kura_sub_city",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "aa_lemi_kura_sub_city_woreda_14",
+      "name": "woreda 14",
+      "zoneId": "aa_lemi_kura_sub_city",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "swep_sheka_masha",
+      "name": "Masha",
+      "zoneId": "swep_sheka",
+      "metadata": {}
+    },
+    {
+      "id": "swep_sheka_andracha",
+      "name": "Andracha",
+      "zoneId": "swep_sheka",
+      "metadata": {}
+    },
+    {
+      "id": "swep_sheka_yeki",
+      "name": "Yeki",
+      "zoneId": "swep_sheka",
+      "metadata": {}
+    },
+    {
+      "id": "swep_sheka_masha_ketema",
+      "name": "Masha Ketema",
+      "zoneId": "swep_sheka",
+      "metadata": {}
+    },
+    {
+      "id": "swep_sheka_tepi_city_admin",
+      "name": "Tepi City Admin",
+      "zoneId": "swep_sheka",
+      "metadata": {}
+    },
+    {
+      "id": "swep_bench_sheko_guraferda",
+      "name": "Guraferda",
+      "zoneId": "swep_bench_sheko",
+      "metadata": {}
+    },
+    {
+      "id": "swep_bench_sheko_sheko",
+      "name": "Sheko",
+      "zoneId": "swep_bench_sheko",
+      "metadata": {}
+    },
+    {
+      "id": "swep_bench_sheko_dizu_gedi",
+      "name": "Dizu-Gedi",
+      "zoneId": "swep_bench_sheko",
+      "metadata": {}
+    },
+    {
+      "id": "swep_bench_sheko_north_benchmaji",
+      "name": "North Benchmaji",
+      "zoneId": "swep_bench_sheko",
+      "metadata": {}
+    },
+    {
+      "id": "swep_bench_sheko_shay_bench",
+      "name": "Shay Bench",
+      "zoneId": "swep_bench_sheko",
+      "metadata": {}
+    },
+    {
+      "id": "swep_bench_sheko_south_bench",
+      "name": "South Bench",
+      "zoneId": "swep_bench_sheko",
+      "metadata": {}
+    },
+    {
+      "id": "swep_bench_sheko_mizan_aman_ketema_astedader",
+      "name": "Mizan Aman Ketema Astedader",
+      "zoneId": "swep_bench_sheko",
+      "metadata": {}
+    },
+    {
+      "id": "swep_west_omo_gachit",
+      "name": "Gachit",
+      "zoneId": "swep_west_omo",
+      "metadata": {}
+    },
+    {
+      "id": "swep_west_omo_menit_goldia",
+      "name": "Menit Goldia",
+      "zoneId": "swep_west_omo",
+      "metadata": {}
+    },
+    {
+      "id": "swep_west_omo_menit_shasha",
+      "name": "Menit Shasha",
+      "zoneId": "swep_west_omo",
+      "metadata": {}
+    },
+    {
+      "id": "swep_west_omo_gori_gesha",
+      "name": "Gori Gesha",
+      "zoneId": "swep_west_omo",
+      "metadata": {}
+    },
+    {
+      "id": "swep_west_omo_bero",
+      "name": "Bero",
+      "zoneId": "swep_west_omo",
+      "metadata": {}
+    },
+    {
+      "id": "swep_west_omo_surma",
+      "name": "Surma",
+      "zoneId": "swep_west_omo",
+      "metadata": {}
+    },
+    {
+      "id": "swep_west_omo_maji",
+      "name": "Maji",
+      "zoneId": "swep_west_omo",
+      "metadata": {}
+    },
+    {
+      "id": "swep_kefa_saylem",
+      "name": "Saylem",
+      "zoneId": "swep_kefa",
+      "metadata": {}
+    },
+    {
+      "id": "swep_kefa_gesha_deka",
+      "name": "Gesha Deka",
+      "zoneId": "swep_kefa",
+      "metadata": {}
+    },
+    {
+      "id": "swep_kefa_gewata",
+      "name": "Gewata",
+      "zoneId": "swep_kefa",
+      "metadata": {}
+    },
+    {
+      "id": "swep_kefa_gimbo",
+      "name": "Gimbo",
+      "zoneId": "swep_kefa",
+      "metadata": {}
+    },
+    {
+      "id": "swep_kefa_adiyo",
+      "name": "Adiyo",
+      "zoneId": "swep_kefa",
+      "metadata": {}
+    },
+    {
+      "id": "swep_kefa_telo",
+      "name": "Telo",
+      "zoneId": "swep_kefa",
+      "metadata": {}
+    },
+    {
+      "id": "swep_kefa_cheta",
+      "name": "Cheta",
+      "zoneId": "swep_kefa",
+      "metadata": {}
+    },
+    {
+      "id": "swep_kefa_decha",
+      "name": "Decha",
+      "zoneId": "swep_kefa",
+      "metadata": {}
+    },
+    {
+      "id": "swep_kefa_chena",
+      "name": "Chena",
+      "zoneId": "swep_kefa",
+      "metadata": {}
+    },
+    {
+      "id": "swep_kefa_bita",
+      "name": "Bita",
+      "zoneId": "swep_kefa",
+      "metadata": {}
+    },
+    {
+      "id": "swep_kefa_bonga",
+      "name": "Bonga",
+      "zoneId": "swep_kefa",
+      "metadata": {}
+    },
+    {
+      "id": "swep_kefa_sheshoendey",
+      "name": "Sheshoendey",
+      "zoneId": "swep_kefa",
+      "metadata": {}
+    },
+    {
+      "id": "swep_kefa_goba",
+      "name": "Goba",
+      "zoneId": "swep_kefa",
+      "metadata": {}
+    },
+    {
+      "id": "swep_kefa_wacha_city_administrator",
+      "name": "Wacha City Administrator",
+      "zoneId": "swep_kefa",
+      "metadata": {}
+    },
+    {
+      "id": "swep_konta_konta_liyu",
+      "name": "Konta Liyu",
+      "zoneId": "swep_konta",
+      "metadata": {}
+    },
+    {
+      "id": "swep_dawro_tocha",
+      "name": "Tocha",
+      "zoneId": "swep_dawro",
+      "metadata": {}
+    },
+    {
+      "id": "swep_dawro_maraka",
+      "name": "Maraka",
+      "zoneId": "swep_dawro",
+      "metadata": {}
+    },
+    {
+      "id": "swep_dawro_loma",
+      "name": "Loma",
+      "zoneId": "swep_dawro",
+      "metadata": {}
+    },
+    {
+      "id": "swep_dawro_gena_bosa",
+      "name": "Gena Bosa",
+      "zoneId": "swep_dawro",
+      "metadata": {}
+    },
+    {
+      "id": "swep_dawro_esera",
+      "name": "Esera",
+      "zoneId": "swep_dawro",
+      "metadata": {}
+    },
+    {
+      "id": "swep_dawro_tarcha_ketema_astedader",
+      "name": "Tarcha Ketema Astedader",
+      "zoneId": "swep_dawro",
+      "metadata": {}
+    },
+    {
+      "id": "swep_dawro_mari_mansa",
+      "name": "Mari Mansa",
+      "zoneId": "swep_dawro",
+      "metadata": {}
+    },
+    {
+      "id": "swep_dawro_gena",
+      "name": "Gena",
+      "zoneId": "swep_dawro",
+      "metadata": {}
+    },
+    {
+      "id": "swep_dawro_tarcha_zuriya",
+      "name": "Tarcha Zuriya",
+      "zoneId": "swep_dawro",
+      "metadata": {}
+    },
+    {
+      "id": "swep_dawro_disa",
+      "name": "Disa",
+      "zoneId": "swep_dawro",
+      "metadata": {}
+    },
+    {
+      "id": "swep_dawro_kechi",
+      "name": "Kechi",
+      "zoneId": "swep_dawro",
+      "metadata": {}
+    },
+    {
+      "id": "swep_dawro_gesa_chare_ketema_astedader",
+      "name": "Gesa Chare Ketema Astedader",
+      "zoneId": "swep_dawro",
+      "metadata": {}
+    },
+    {
+      "id": "sc_westawi_kafta_humera",
+      "name": "Kafta Humera",
+      "zoneId": "sc_westawi",
+      "metadata": {}
+    },
+    {
+      "id": "sc_westawi_welkayit",
+      "name": "Welkayit",
+      "zoneId": "sc_westawi",
+      "metadata": {}
+    },
+    {
+      "id": "sc_westawi_tsegede",
+      "name": "Tsegede",
+      "zoneId": "sc_westawi",
+      "metadata": {}
+    },
+    {
+      "id": "sc_westawi_setit_humera",
+      "name": "Setit Humera",
+      "zoneId": "sc_westawi",
+      "metadata": {}
+    },
+    {
+      "id": "har_hareri_sofi",
+      "name": "Sofi",
+      "zoneId": "har_hareri",
+      "metadata": {}
+    },
+    {
+      "id": "har_hareri_dire_teyara",
+      "name": "Dire Teyara",
+      "zoneId": "har_hareri",
+      "metadata": {}
+    },
+    {
+      "id": "har_hareri_errer",
+      "name": "Errer",
+      "zoneId": "har_hareri",
+      "metadata": {}
+    },
+    {
+      "id": "har_hareri_hakim",
+      "name": "Hakim",
+      "zoneId": "har_hareri",
+      "metadata": {}
+    },
+    {
+      "id": "har_hareri_aboker",
+      "name": "Aboker",
+      "zoneId": "har_hareri",
+      "metadata": {}
+    },
+    {
+      "id": "har_hareri_shenkor",
+      "name": "Shenkor",
+      "zoneId": "har_hareri",
+      "metadata": {}
+    },
+    {
+      "id": "har_hareri_amir_nur",
+      "name": "Amir Nur",
+      "zoneId": "har_hareri",
+      "metadata": {}
+    },
+    {
+      "id": "har_hareri_jinela",
+      "name": "Jinela",
+      "zoneId": "har_hareri",
+      "metadata": {}
+    },
+    {
+      "id": "har_hareri_abadir",
+      "name": "Abadir",
+      "zoneId": "har_hareri",
+      "metadata": {}
+    },
+    {
+      "id": "gmb_anuak_gambela_zuriya",
+      "name": "Gambela Zuriya",
+      "zoneId": "gmb_anuak",
+      "metadata": {}
+    },
+    {
+      "id": "gmb_anuak_abobo",
+      "name": "Abobo",
+      "zoneId": "gmb_anuak",
+      "metadata": {}
+    },
+    {
+      "id": "gmb_anuak_gog",
+      "name": "Gog",
+      "zoneId": "gmb_anuak",
+      "metadata": {}
+    },
+    {
+      "id": "gmb_anuak_jor",
+      "name": "Jor",
+      "zoneId": "gmb_anuak",
+      "metadata": {}
+    },
+    {
+      "id": "gmb_anuak_dima",
+      "name": "Dima",
+      "zoneId": "gmb_anuak",
+      "metadata": {}
+    },
+    {
+      "id": "gmb_anuak_gambella_woreda",
+      "name": "Gambella woreda",
+      "zoneId": "gmb_anuak",
+      "metadata": {}
+    },
+    {
+      "id": "gmb_nuer_lare",
+      "name": "Lare",
+      "zoneId": "gmb_nuer",
+      "metadata": {}
+    },
+    {
+      "id": "gmb_nuer_jikawo",
+      "name": "Jikawo",
+      "zoneId": "gmb_nuer",
+      "metadata": {}
+    },
+    {
+      "id": "gmb_nuer_wantawo",
+      "name": "Wantawo",
+      "zoneId": "gmb_nuer",
+      "metadata": {}
+    },
+    {
+      "id": "gmb_nuer_akobo",
+      "name": "Akobo",
+      "zoneId": "gmb_nuer",
+      "metadata": {}
+    },
+    {
+      "id": "gmb_nuer_makoy",
+      "name": "Makoy",
+      "zoneId": "gmb_nuer",
+      "metadata": {}
+    },
+    {
+      "id": "gmb_mejenger_godere",
+      "name": "Godere",
+      "zoneId": "gmb_mejenger",
+      "metadata": {}
+    },
+    {
+      "id": "gmb_mejenger_mengeshi",
+      "name": "Mengeshi",
+      "zoneId": "gmb_mejenger",
+      "metadata": {}
+    },
+    {
+      "id": "gmb_itang_special_itang",
+      "name": "Itang",
+      "zoneId": "gmb_itang_special",
+      "metadata": {}
+    },
+    {
+      "id": "cet_gurage_abashige",
+      "name": "Abashige",
+      "zoneId": "cet_gurage",
+      "metadata": {}
+    },
+    {
+      "id": "cet_gurage_wolkite_ketema_astedader",
+      "name": "Wolkite Ketema Astedader",
+      "zoneId": "cet_gurage",
+      "metadata": {}
+    },
+    {
+      "id": "cet_gurage_gedebano_gutazar_welene",
+      "name": "Gedebano Gutazar Welene",
+      "zoneId": "cet_gurage",
+      "metadata": {}
+    },
+    {
+      "id": "cet_gurage_mihur_ena_aklil",
+      "name": "Mihur Ena Aklil",
+      "zoneId": "cet_gurage",
+      "metadata": {}
+    },
+    {
+      "id": "cet_gurage_ezha",
+      "name": "Ezha",
+      "zoneId": "cet_gurage",
+      "metadata": {}
+    },
+    {
+      "id": "cet_gurage_agena_ketema_astedader",
+      "name": "Agena Ketema Astedader",
+      "zoneId": "cet_gurage",
+      "metadata": {}
+    },
+    {
+      "id": "cet_gurage_gumer",
+      "name": "Gumer",
+      "zoneId": "cet_gurage",
+      "metadata": {}
+    },
+    {
+      "id": "cet_gurage_arekit_ketema_astedader",
+      "name": "Arekit Ketema Astedader",
+      "zoneId": "cet_gurage",
+      "metadata": {}
+    },
+    {
+      "id": "cet_gurage_cheha",
+      "name": "Cheha",
+      "zoneId": "cet_gurage",
+      "metadata": {}
+    },
+    {
+      "id": "cet_gurage_emdiber_ketema_astedader",
+      "name": "Emdiber Ketema Astedader",
+      "zoneId": "cet_gurage",
+      "metadata": {}
+    },
+    {
+      "id": "cet_gurage_enor",
+      "name": "Enor",
+      "zoneId": "cet_gurage",
+      "metadata": {}
+    },
+    {
+      "id": "cet_gurage_gunchire_ketema_astedader",
+      "name": "Gunchire Ketema Astedader",
+      "zoneId": "cet_gurage",
+      "metadata": {}
+    },
+    {
+      "id": "cet_gurage_enor_ener_mager",
+      "name": "Enor Ener Mager",
+      "zoneId": "cet_gurage",
+      "metadata": {}
+    },
+    {
+      "id": "cet_gurage_geta",
+      "name": "Geta",
+      "zoneId": "cet_gurage",
+      "metadata": {}
+    },
+    {
+      "id": "cet_gurage_endegagn",
+      "name": "Endegagn",
+      "zoneId": "cet_gurage",
+      "metadata": {}
+    },
+    {
+      "id": "cet_kabena_liyu_kabena_liyu",
+      "name": "Kabena Liyu",
+      "zoneId": "cet_kabena_liyu",
+      "metadata": {}
+    },
+    {
+      "id": "cet_east_gurage_sodo",
+      "name": "Sodo",
+      "zoneId": "cet_east_gurage",
+      "metadata": {}
+    },
+    {
+      "id": "cet_east_gurage_bui_ketema_astedader",
+      "name": "Bui Ketema Astedader",
+      "zoneId": "cet_east_gurage",
+      "metadata": {}
+    },
+    {
+      "id": "cet_east_gurage_south_sodo",
+      "name": "South Sodo",
+      "zoneId": "cet_east_gurage",
+      "metadata": {}
+    },
+    {
+      "id": "cet_east_gurage_meskan",
+      "name": "Meskan",
+      "zoneId": "cet_east_gurage",
+      "metadata": {}
+    },
+    {
+      "id": "cet_east_gurage_butajira_ketema_astedader",
+      "name": "Butajira Ketema Astedader",
+      "zoneId": "cet_east_gurage",
+      "metadata": {}
+    },
+    {
+      "id": "cet_east_gurage_east_meskan",
+      "name": "East Meskan",
+      "zoneId": "cet_east_gurage",
+      "metadata": {}
+    },
+    {
+      "id": "cet_east_gurage_enseno_ketema_astedader",
+      "name": "Enseno Ketema Astedader",
+      "zoneId": "cet_east_gurage",
+      "metadata": {}
+    },
+    {
+      "id": "cet_mareko_liyu_mareko_liyu",
+      "name": "Mareko Liyu",
+      "zoneId": "cet_mareko_liyu",
+      "metadata": {}
+    },
+    {
+      "id": "cet_silte_alicho_wiriro",
+      "name": "Alicho Wiriro",
+      "zoneId": "cet_silte",
+      "metadata": {}
+    },
+    {
+      "id": "cet_silte_silte",
+      "name": "Silte",
+      "zoneId": "cet_silte",
+      "metadata": {}
+    },
+    {
+      "id": "cet_silte_kibet_ketema_astedader",
+      "name": "Kibet Ketema Astedader",
+      "zoneId": "cet_silte",
+      "metadata": {}
+    },
+    {
+      "id": "cet_silte_east_silte",
+      "name": "East Silte",
+      "zoneId": "cet_silte",
+      "metadata": {}
+    },
+    {
+      "id": "cet_silte_lanfuro",
+      "name": "Lanfuro",
+      "zoneId": "cet_silte",
+      "metadata": {}
+    },
+    {
+      "id": "cet_silte_tora_ketema_astedader",
+      "name": "Tora Ketema Astedader",
+      "zoneId": "cet_silte",
+      "metadata": {}
+    },
+    {
+      "id": "cet_silte_mito",
+      "name": "Mito",
+      "zoneId": "cet_silte",
+      "metadata": {}
+    },
+    {
+      "id": "cet_silte_dalocha",
+      "name": "Dalocha",
+      "zoneId": "cet_silte",
+      "metadata": {}
+    },
+    {
+      "id": "cet_silte_dalocha_ketema_astedader",
+      "name": "Dalocha Ketema Astedader",
+      "zoneId": "cet_silte",
+      "metadata": {}
+    },
+    {
+      "id": "cet_silte_worabe_ketema_astedader",
+      "name": "Worabe Ketema Astedader",
+      "zoneId": "cet_silte",
+      "metadata": {}
+    },
+    {
+      "id": "cet_silte_hulbareg",
+      "name": "Hulbareg",
+      "zoneId": "cet_silte",
+      "metadata": {}
+    },
+    {
+      "id": "cet_silte_east_azernet_berbere",
+      "name": "East Azernet Berbere",
+      "zoneId": "cet_silte",
+      "metadata": {}
+    },
+    {
+      "id": "cet_silte_west_azernet_berbere",
+      "name": "West Azernet Berbere",
+      "zoneId": "cet_silte",
+      "metadata": {}
+    },
+    {
+      "id": "cet_silte_sankura",
+      "name": "Sankura",
+      "zoneId": "cet_silte",
+      "metadata": {}
+    },
+    {
+      "id": "cet_silte_alem_gebeya_ketema_astedader",
+      "name": "Alem Gebeya Ketema Astedader",
+      "zoneId": "cet_silte",
+      "metadata": {}
+    },
+    {
+      "id": "cet_halaba_wera_dijo",
+      "name": "Wera Dijo",
+      "zoneId": "cet_halaba",
+      "metadata": {}
+    },
+    {
+      "id": "cet_halaba_atoti_ulo",
+      "name": "Atoti Ulo",
+      "zoneId": "cet_halaba",
+      "metadata": {}
+    },
+    {
+      "id": "cet_halaba_wera",
+      "name": "Wera",
+      "zoneId": "cet_halaba",
+      "metadata": {}
+    },
+    {
+      "id": "cet_halaba_halaba_ketema_astedader",
+      "name": "Halaba Ketema Astedader",
+      "zoneId": "cet_halaba",
+      "metadata": {}
+    },
+    {
+      "id": "cet_hadiya_ameka",
+      "name": "Ameka",
+      "zoneId": "cet_hadiya",
+      "metadata": {}
+    },
+    {
+      "id": "cet_hadiya_gibe",
+      "name": "Gibe",
+      "zoneId": "cet_hadiya",
+      "metadata": {}
+    },
+    {
+      "id": "cet_hadiya_homecho_town_adminstration",
+      "name": "Homecho Town Adminstration",
+      "zoneId": "cet_hadiya",
+      "metadata": {}
+    },
+    {
+      "id": "cet_hadiya_gombora",
+      "name": "Gombora",
+      "zoneId": "cet_hadiya",
+      "metadata": {}
+    },
+    {
+      "id": "cet_hadiya_misha",
+      "name": "Misha",
+      "zoneId": "cet_hadiya",
+      "metadata": {}
+    },
+    {
+      "id": "cet_hadiya_limu",
+      "name": "Limu",
+      "zoneId": "cet_hadiya",
+      "metadata": {}
+    },
+    {
+      "id": "cet_hadiya_hosana_town_adminstration",
+      "name": "Hosana Town Adminstration",
+      "zoneId": "cet_hadiya",
+      "metadata": {}
+    },
+    {
+      "id": "cet_hadiya_analemmo",
+      "name": "Analemmo",
+      "zoneId": "cet_hadiya",
+      "metadata": {}
+    },
+    {
+      "id": "cet_hadiya_fonko_town_administration",
+      "name": "Fonko Town Administration",
+      "zoneId": "cet_hadiya",
+      "metadata": {}
+    },
+    {
+      "id": "cet_hadiya_shashego",
+      "name": "Shashego",
+      "zoneId": "cet_hadiya",
+      "metadata": {}
+    },
+    {
+      "id": "cet_hadiya_bonosha_town_administration",
+      "name": "Bonosha Town Administration",
+      "zoneId": "cet_hadiya",
+      "metadata": {}
+    },
+    {
+      "id": "cet_hadiya_east_badowoch",
+      "name": "East Badowoch",
+      "zoneId": "cet_hadiya",
+      "metadata": {}
+    },
+    {
+      "id": "cet_hadiya_siraro_badowoch",
+      "name": "Siraro Badowoch",
+      "zoneId": "cet_hadiya",
+      "metadata": {}
+    },
+    {
+      "id": "cet_hadiya_shone_city_adminstration",
+      "name": "Shone City Adminstration",
+      "zoneId": "cet_hadiya",
+      "metadata": {}
+    },
+    {
+      "id": "cet_hadiya_west_badawacho",
+      "name": "West Badawacho",
+      "zoneId": "cet_hadiya",
+      "metadata": {}
+    },
+    {
+      "id": "cet_hadiya_duna",
+      "name": "Duna",
+      "zoneId": "cet_hadiya",
+      "metadata": {}
+    },
+    {
+      "id": "cet_hadiya_soro",
+      "name": "Soro",
+      "zoneId": "cet_hadiya",
+      "metadata": {}
+    },
+    {
+      "id": "cet_hadiya_jajura_ketema_astedader",
+      "name": "Jajura Ketema Astedader",
+      "zoneId": "cet_hadiya",
+      "metadata": {}
+    },
+    {
+      "id": "cet_hadiya_gimbichu_ketema_astedader",
+      "name": "Gimbichu Ketema Astedader",
+      "zoneId": "cet_hadiya",
+      "metadata": {}
+    },
+    {
+      "id": "cet_hadiya_west_soro",
+      "name": "West Soro",
+      "zoneId": "cet_hadiya",
+      "metadata": {}
+    },
+    {
+      "id": "cet_yem_dori_saja",
+      "name": "Dori Saja",
+      "zoneId": "cet_yem",
+      "metadata": {}
+    },
+    {
+      "id": "cet_yem_fofa",
+      "name": "Fofa",
+      "zoneId": "cet_yem",
+      "metadata": {}
+    },
+    {
+      "id": "cet_yem_toba",
+      "name": "Toba",
+      "zoneId": "cet_yem",
+      "metadata": {}
+    },
+    {
+      "id": "cet_yem_saja_ketama_astedader",
+      "name": "Saja Ketama Astedader",
+      "zoneId": "cet_yem",
+      "metadata": {}
+    },
+    {
+      "id": "cet_tembaro_leyu_tembaro",
+      "name": "Tembaro",
+      "zoneId": "cet_tembaro_leyu",
+      "metadata": {}
+    },
+    {
+      "id": "cet_tembaro_leyu_mudula_ketema_astedader",
+      "name": "Mudula Ketema Astedader",
+      "zoneId": "cet_tembaro_leyu",
+      "metadata": {}
+    },
+    {
+      "id": "cet_kembata_hadaro_tunto",
+      "name": "Hadaro Tunto",
+      "zoneId": "cet_kembata",
+      "metadata": {}
+    },
+    {
+      "id": "cet_kembata_kachabira",
+      "name": "Kachabira",
+      "zoneId": "cet_kembata",
+      "metadata": {}
+    },
+    {
+      "id": "cet_kembata_doyogena",
+      "name": "Doyogena",
+      "zoneId": "cet_kembata",
+      "metadata": {}
+    },
+    {
+      "id": "cet_kembata_angecha",
+      "name": "Angecha",
+      "zoneId": "cet_kembata",
+      "metadata": {}
+    },
+    {
+      "id": "cet_kembata_damboya",
+      "name": "Damboya",
+      "zoneId": "cet_kembata",
+      "metadata": {}
+    },
+    {
+      "id": "cet_kembata_kedida_gamella",
+      "name": "Kedida Gamella",
+      "zoneId": "cet_kembata",
+      "metadata": {}
+    },
+    {
+      "id": "cet_kembata_adiloo_zuriya",
+      "name": "Adiloo Zuriya",
+      "zoneId": "cet_kembata",
+      "metadata": {}
+    },
+    {
+      "id": "cet_kembata_hadaro_ketema_astidadar",
+      "name": "Hadaro Ketema Astidadar",
+      "zoneId": "cet_kembata",
+      "metadata": {}
+    },
+    {
+      "id": "cet_kembata_angecha_ketema_astedader",
+      "name": "Angecha Ketema Astedader",
+      "zoneId": "cet_kembata",
+      "metadata": {}
+    },
+    {
+      "id": "cet_kembata_damboya_keteme_astededar",
+      "name": "Damboya Keteme Astededar",
+      "zoneId": "cet_kembata",
+      "metadata": {}
+    },
+    {
+      "id": "cet_kembata_durame_keteme_astedader",
+      "name": "Durame Keteme Astedader",
+      "zoneId": "cet_kembata",
+      "metadata": {}
+    },
+    {
+      "id": "cet_kembata_shinshicho_ketema_astedader",
+      "name": "Shinshicho Ketema Astedader",
+      "zoneId": "cet_kembata",
+      "metadata": {}
+    },
+    {
+      "id": "cet_kembata_doyogena_ketema_astedader",
+      "name": "Doyogena Ketema Astedader",
+      "zoneId": "cet_kembata",
+      "metadata": {
+        "note": "yihie altekatetem"
+      }
+    },
+    {
+      "id": "sdm_hawassa_city_admnistration_tula_sub_city",
+      "name": "Tula Sub City",
+      "zoneId": "sdm_hawassa_city_admnistration",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_hawassa_city_admnistration_tabor_sub_city",
+      "name": "Tabor Sub City",
+      "zoneId": "sdm_hawassa_city_admnistration",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_hawassa_city_admnistration_menaheriya_sub_city",
+      "name": "Menaheriya Sub City",
+      "zoneId": "sdm_hawassa_city_admnistration",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_hawassa_city_admnistration_addis_ketema_sub_city",
+      "name": "Addis ketema Sub City",
+      "zoneId": "sdm_hawassa_city_admnistration",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_hawassa_city_admnistration_misirak_sub_city",
+      "name": "Misirak Sub City",
+      "zoneId": "sdm_hawassa_city_admnistration",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_hawassa_city_admnistration_mehal_sub_city",
+      "name": "Mehal Sub City",
+      "zoneId": "sdm_hawassa_city_admnistration",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_hawassa_city_admnistration_bahal_adarash_sub_city",
+      "name": "Bahal Adarash Sub City",
+      "zoneId": "sdm_hawassa_city_admnistration",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_hawassa_city_admnistration_hayik_dar_sub_city",
+      "name": "Hayik Dar Sub City",
+      "zoneId": "sdm_hawassa_city_admnistration",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_north_sidama_bilaate",
+      "name": "Bilaate",
+      "zoneId": "sdm_north_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_north_sidama_borricha",
+      "name": "Borricha",
+      "zoneId": "sdm_north_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_north_sidama_gorche",
+      "name": "Gorche",
+      "zoneId": "sdm_north_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_north_sidama_hawassa_zuriya",
+      "name": "Hawassa zuriya",
+      "zoneId": "sdm_north_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_north_sidama_hawela",
+      "name": "Hawela",
+      "zoneId": "sdm_north_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_north_sidama_leku_city",
+      "name": "Leku City",
+      "zoneId": "sdm_north_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_north_sidama_malga",
+      "name": "Malga",
+      "zoneId": "sdm_north_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_north_sidama_shabbadino",
+      "name": "Shabbadino",
+      "zoneId": "sdm_north_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_north_sidama_wondo_genet_city",
+      "name": "wondo Genet city",
+      "zoneId": "sdm_north_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_north_sidama_wondo_genet",
+      "name": "Wondo Genet",
+      "zoneId": "sdm_north_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_central_sidama_lokka",
+      "name": "Lokka",
+      "zoneId": "sdm_central_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_central_sidama_yirgalame_city",
+      "name": "Yirgalame City",
+      "zoneId": "sdm_central_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_central_sidama_shaafaamo",
+      "name": "Shaafaamo",
+      "zoneId": "sdm_central_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_central_sidama_daraara",
+      "name": "Daraara",
+      "zoneId": "sdm_central_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_central_sidama_daalle",
+      "name": "Daalle",
+      "zoneId": "sdm_central_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_central_sidama_wonsho",
+      "name": "Wonsho",
+      "zoneId": "sdm_central_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_central_sidama_arbegoona",
+      "name": "Arbegoona",
+      "zoneId": "sdm_central_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_south_sidama_aleta_wondo_city",
+      "name": "Aleta Wondo City",
+      "zoneId": "sdm_south_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_south_sidama_aleta_wondo",
+      "name": "Aleta Wondo",
+      "zoneId": "sdm_south_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_south_sidama_hula",
+      "name": "Hula",
+      "zoneId": "sdm_south_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_south_sidama_daarra_qawado",
+      "name": "Daarra Qawado",
+      "zoneId": "sdm_south_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_south_sidama_alata_cukko",
+      "name": "Alata Cukko",
+      "zoneId": "sdm_south_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_south_sidama_aleta_cukko_city",
+      "name": "Aleta Cukko City",
+      "zoneId": "sdm_south_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_south_sidama_bursa",
+      "name": "Bursa",
+      "zoneId": "sdm_south_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_south_sidama_darra_otilcho",
+      "name": "Darra Otilcho",
+      "zoneId": "sdm_south_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_south_sidama_teticha",
+      "name": "Teticha",
+      "zoneId": "sdm_south_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_south_sidama_ciroone",
+      "name": "Ciroone",
+      "zoneId": "sdm_south_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_east_sidama_aroresa",
+      "name": "Aroresa",
+      "zoneId": "sdm_east_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_east_sidama_bensa",
+      "name": "Bensa",
+      "zoneId": "sdm_east_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_east_sidama_boona",
+      "name": "Boona",
+      "zoneId": "sdm_east_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_east_sidama_burra",
+      "name": "Burra",
+      "zoneId": "sdm_east_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_east_sidama_cabbe",
+      "name": "Cabbe",
+      "zoneId": "sdm_east_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_east_sidama_cirre",
+      "name": "Cirre",
+      "zoneId": "sdm_east_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_east_sidama_daaela",
+      "name": "Daaela",
+      "zoneId": "sdm_east_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_east_sidama_daaye_city",
+      "name": "Daaye City",
+      "zoneId": "sdm_east_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "sdm_east_sidama_hokko",
+      "name": "Hokko",
+      "zoneId": "sdm_east_sidama",
+      "metadata": {}
+    },
+    {
+      "id": "seth_wolayta_boloso_sore",
+      "name": "Boloso Sore",
+      "zoneId": "seth_wolayta",
+      "metadata": {}
+    },
+    {
+      "id": "seth_wolayta_damotgale",
+      "name": "Damotgale",
+      "zoneId": "seth_wolayta",
+      "metadata": {}
+    },
+    {
+      "id": "seth_wolayta_damot_weyde",
+      "name": "Damot Weyde",
+      "zoneId": "seth_wolayta",
+      "metadata": {}
+    },
+    {
+      "id": "seth_wolayta_humbo",
+      "name": "Humbo",
+      "zoneId": "seth_wolayta",
+      "metadata": {}
+    },
+    {
+      "id": "seth_wolayta_sodo_zuria",
+      "name": "Sodo Zuria",
+      "zoneId": "seth_wolayta",
+      "metadata": {}
+    },
+    {
+      "id": "seth_wolayta_kindo_koisha",
+      "name": "Kindo Koisha",
+      "zoneId": "seth_wolayta",
+      "metadata": {}
+    },
+    {
+      "id": "seth_wolayta_ofa",
+      "name": "Ofa",
+      "zoneId": "seth_wolayta",
+      "metadata": {}
+    },
+    {
+      "id": "seth_wolayta_bolosobombe",
+      "name": "Bolosobombe",
+      "zoneId": "seth_wolayta",
+      "metadata": {}
+    },
+    {
+      "id": "seth_wolayta_damot_sore",
+      "name": "Damot Sore",
+      "zoneId": "seth_wolayta",
+      "metadata": {}
+    },
+    {
+      "id": "seth_wolayta_kindo_didaye",
+      "name": "Kindo Didaye",
+      "zoneId": "seth_wolayta",
+      "metadata": {}
+    },
+    {
+      "id": "seth_wolayta_damotpulasa",
+      "name": "Damotpulasa",
+      "zoneId": "seth_wolayta",
+      "metadata": {}
+    },
+    {
+      "id": "seth_wolayta_duguna_fango",
+      "name": "Duguna Fango",
+      "zoneId": "seth_wolayta",
+      "metadata": {}
+    },
+    {
+      "id": "seth_wolayta_sodo_ketema_astedader",
+      "name": "Sodo Ketema Astedader",
+      "zoneId": "seth_wolayta",
+      "metadata": {}
+    },
+    {
+      "id": "seth_wolayta_areka_ketema_astedader",
+      "name": "Areka Ketema Astedader",
+      "zoneId": "seth_wolayta",
+      "metadata": {}
+    },
+    {
+      "id": "seth_wolayta_boditi_town",
+      "name": "Boditi Town",
+      "zoneId": "seth_wolayta",
+      "metadata": {}
+    },
+    {
+      "id": "seth_wolayta_kawo_koyisha",
+      "name": "Kawo Koyisha",
+      "zoneId": "seth_wolayta",
+      "metadata": {}
+    },
+    {
+      "id": "seth_wolayta_bayra_koysha",
+      "name": "Bayra Koysha",
+      "zoneId": "seth_wolayta",
+      "metadata": {}
+    },
+    {
+      "id": "seth_wolayta_hobicha_abaya",
+      "name": "Hobicha Abaya",
+      "zoneId": "seth_wolayta",
+      "metadata": {}
+    },
+    {
+      "id": "seth_wolayta_abala_abaya",
+      "name": "Abala Abaya",
+      "zoneId": "seth_wolayta",
+      "metadata": {}
+    },
+    {
+      "id": "seth_wolayta_gununo_hamuse_ketema_astedader",
+      "name": "Gununo Hamuse Ketema Astedader",
+      "zoneId": "seth_wolayta",
+      "metadata": {}
+    },
+    {
+      "id": "seth_wolayta_bele_ketema_astedader",
+      "name": "Bele Ketema Astedader",
+      "zoneId": "seth_wolayta",
+      "metadata": {}
+    },
+    {
+      "id": "seth_wolayta_tebela_ketema_astedader",
+      "name": "Tebela Ketema Astedader",
+      "zoneId": "seth_wolayta",
+      "metadata": {}
+    },
+    {
+      "id": "seth_wolayta_gesuba_ketema_astedader",
+      "name": "Gesuba Ketema Astedader",
+      "zoneId": "seth_wolayta",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gamo_qucha_alfa",
+      "name": "Qucha Alfa",
+      "zoneId": "seth_gamo",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gamo_boreda",
+      "name": "Boreda",
+      "zoneId": "seth_gamo",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gamo_west_abaya",
+      "name": "West Abaya",
+      "zoneId": "seth_gamo",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gamo_qogota",
+      "name": "Qogota",
+      "zoneId": "seth_gamo",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gamo_chencha_zuriya",
+      "name": "Chencha Zuriya",
+      "zoneId": "seth_gamo",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gamo_dita",
+      "name": "Dita",
+      "zoneId": "seth_gamo",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gamo_deremalo",
+      "name": "Deremalo",
+      "zoneId": "seth_gamo",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gamo_kemba",
+      "name": "Kemba",
+      "zoneId": "seth_gamo",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gamo_garda_marta",
+      "name": "Garda Marta",
+      "zoneId": "seth_gamo",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gamo_bonke",
+      "name": "Bonke",
+      "zoneId": "seth_gamo",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gamo_gacho_baba",
+      "name": "Gacho_Baba",
+      "zoneId": "seth_gamo",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gamo_arbaminch_zuriya",
+      "name": "Arbaminch Zuriya",
+      "zoneId": "seth_gamo",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gamo_qucha",
+      "name": "Qucha",
+      "zoneId": "seth_gamo",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gamo_selam_ber_ketema_asetedader",
+      "name": "Selam Ber Ketema Asetedader",
+      "zoneId": "seth_gamo",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gamo_geresse",
+      "name": "Geresse",
+      "zoneId": "seth_gamo",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gamo_arba_minch_ketema_astededader",
+      "name": "Arba Minch Ketema Astededader",
+      "zoneId": "seth_gamo",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gamo_geresse_ketema_astedader",
+      "name": "Geresse Ketema Astedader",
+      "zoneId": "seth_gamo",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gamo_kemba_ketema_astedader",
+      "name": "Kemba Ketema Astedader",
+      "zoneId": "seth_gamo",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gamo_chencha_ketema_asetedader",
+      "name": "Chencha Ketema Asetedader",
+      "zoneId": "seth_gamo",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gofa_melo_koza",
+      "name": "Melo Koza",
+      "zoneId": "seth_gofa",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gofa_melo_gada",
+      "name": "Melo Gada",
+      "zoneId": "seth_gofa",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gofa_denba_gofa",
+      "name": "Denba Gofa",
+      "zoneId": "seth_gofa",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gofa_geze_gofa",
+      "name": "Geze Gofa",
+      "zoneId": "seth_gofa",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gofa_bulki_ketema_asetedader",
+      "name": "Bulki Ketema Asetedader",
+      "zoneId": "seth_gofa",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gofa_oyida",
+      "name": "Oyida",
+      "zoneId": "seth_gofa",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gofa_sawula",
+      "name": "Sawula",
+      "zoneId": "seth_gofa",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gofa_zala",
+      "name": "Zala",
+      "zoneId": "seth_gofa",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gofa_uba_debretsehay",
+      "name": "Uba Debretsehay",
+      "zoneId": "seth_gofa",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gofa_beto_ketema_astedader",
+      "name": "Beto Ketema Astedader",
+      "zoneId": "seth_gofa",
+      "metadata": {}
+    },
+    {
+      "id": "seth_basketo_basketo",
+      "name": "Basketo",
+      "zoneId": "seth_basketo",
+      "metadata": {
+        "note": "twise"
+      }
+    },
+    {
+      "id": "seth_ari_zone_north_ari",
+      "name": "North Ari",
+      "zoneId": "seth_ari_zone",
+      "metadata": {}
+    },
+    {
+      "id": "seth_ari_zone_gelila_ketema_astedader",
+      "name": "Gelila Ketema Astedader",
+      "zoneId": "seth_ari_zone",
+      "metadata": {}
+    },
+    {
+      "id": "seth_ari_zone_woba_ari",
+      "name": "Woba Ari",
+      "zoneId": "seth_ari_zone",
+      "metadata": {}
+    },
+    {
+      "id": "seth_ari_zone_south_ari",
+      "name": "South Ari",
+      "zoneId": "seth_ari_zone",
+      "metadata": {}
+    },
+    {
+      "id": "seth_ari_zone_baka_dawela_ari",
+      "name": "Baka Dawela Ari",
+      "zoneId": "seth_ari_zone",
+      "metadata": {}
+    },
+    {
+      "id": "seth_ari_zone_jinka_ketema_astedader",
+      "name": "Jinka Ketema Astedader",
+      "zoneId": "seth_ari_zone",
+      "metadata": {}
+    },
+    {
+      "id": "seth_south_omo_salamago",
+      "name": "Salamago",
+      "zoneId": "seth_south_omo",
+      "metadata": {}
+    },
+    {
+      "id": "seth_south_omo_malle",
+      "name": "Malle",
+      "zoneId": "seth_south_omo",
+      "metadata": {}
+    },
+    {
+      "id": "seth_south_omo_bena_tsemay",
+      "name": "Bena Tsemay",
+      "zoneId": "seth_south_omo",
+      "metadata": {}
+    },
+    {
+      "id": "seth_south_omo_hamer",
+      "name": "Hamer",
+      "zoneId": "seth_south_omo",
+      "metadata": {}
+    },
+    {
+      "id": "seth_south_omo_turmi_ketema_astedader",
+      "name": "Turmi Ketema Astedader",
+      "zoneId": "seth_south_omo",
+      "metadata": {}
+    },
+    {
+      "id": "seth_south_omo_nyangatom",
+      "name": "Nyangatom",
+      "zoneId": "seth_south_omo",
+      "metadata": {}
+    },
+    {
+      "id": "seth_south_omo_dasenech",
+      "name": "Dasenech",
+      "zoneId": "seth_south_omo",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gardula_derashe",
+      "name": "Derashe",
+      "zoneId": "seth_gardula",
+      "metadata": {}
+    },
+    {
+      "id": "seth_alle_kolango_zuriya",
+      "name": "Kolango Zuriya",
+      "zoneId": "seth_alle",
+      "metadata": {}
+    },
+    {
+      "id": "seth_alle_kolango_ketema_astedader",
+      "name": "Kolango Ketema Astedader",
+      "zoneId": "seth_alle",
+      "metadata": {}
+    },
+    {
+      "id": "seth_konso_segen_zuriya",
+      "name": "Segen_Zuriya",
+      "zoneId": "seth_konso",
+      "metadata": {}
+    },
+    {
+      "id": "seth_konso_karate_zuria",
+      "name": "Karate_Zuria",
+      "zoneId": "seth_konso",
+      "metadata": {}
+    },
+    {
+      "id": "seth_konso_kena",
+      "name": "Kena",
+      "zoneId": "seth_konso",
+      "metadata": {}
+    },
+    {
+      "id": "seth_konso_kolme_cluster",
+      "name": "Kolme Cluster",
+      "zoneId": "seth_konso",
+      "metadata": {}
+    },
+    {
+      "id": "seth_konso_karate_city_admin",
+      "name": "Karate_City_Admin",
+      "zoneId": "seth_konso",
+      "metadata": {}
+    },
+    {
+      "id": "seth_burji_burji",
+      "name": "Burji",
+      "zoneId": "seth_burji",
+      "metadata": {}
+    },
+    {
+      "id": "seth_kore_amaro",
+      "name": "Amaro",
+      "zoneId": "seth_kore",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gedeo_wonago",
+      "name": "Wonago",
+      "zoneId": "seth_gedeo",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gedeo_yirga_chefe",
+      "name": "Yirga Chefe",
+      "zoneId": "seth_gedeo",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gedeo_kochore",
+      "name": "Kochore",
+      "zoneId": "seth_gedeo",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gedeo_bule",
+      "name": "Bule",
+      "zoneId": "seth_gedeo",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gedeo_dilla_zuria",
+      "name": "Dilla Zuria",
+      "zoneId": "seth_gedeo",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gedeo_gedeb",
+      "name": "Gedeb",
+      "zoneId": "seth_gedeo",
+      "metadata": {}
+    },
+    {
+      "id": "seth_gedeo_yirga_chefe_city_admin",
+      "name": "Yirga Chefe City Admin",
+      "zoneId": "seth_gedeo",
+      "metadata": {}
+    },
+    {
+      "id": "seth_dilla_city_admin_dilla_bedecha_town",
+      "name": "Dilla Bedecha Town",
+      "zoneId": "seth_dilla_city_admin",
+      "metadata": {}
+    },
+    {
+      "id": "seth_dilla_city_admin_dilla_sessa_town",
+      "name": "Dilla Sessa Town",
+      "zoneId": "seth_dilla_city_admin",
+      "metadata": {}
+    },
+    {
+      "id": "seth_dilla_city_admin_dilla_harowelabo_town",
+      "name": "Dilla Harowelabo Town",
+      "zoneId": "seth_dilla_city_admin",
+      "metadata": {}
+    },
+    {
+      "id": "bsg_assosa_menge",
+      "name": "Menge",
+      "zoneId": "bsg_assosa",
+      "metadata": {
+        "note": "done"
+      }
+    },
+    {
+      "id": "bsg_assosa_kurmuk",
+      "name": "Kurmuk",
+      "zoneId": "bsg_assosa",
+      "metadata": {}
+    },
+    {
+      "id": "bsg_assosa_assosa",
+      "name": "Assosa",
+      "zoneId": "bsg_assosa",
+      "metadata": {}
+    },
+    {
+      "id": "bsg_assosa_sherqole",
+      "name": "Sherqole",
+      "zoneId": "bsg_assosa",
+      "metadata": {}
+    },
+    {
+      "id": "bsg_assosa_bambasi",
+      "name": "Bambasi",
+      "zoneId": "bsg_assosa",
+      "metadata": {}
+    },
+    {
+      "id": "bsg_assosa_odda_buldgilu",
+      "name": "Odda Buldgilu",
+      "zoneId": "bsg_assosa",
+      "metadata": {}
+    },
+    {
+      "id": "bsg_assosa_homosha",
+      "name": "Homosha",
+      "zoneId": "bsg_assosa",
+      "metadata": {}
+    },
+    {
+      "id": "bsg_assosa_woreda_and",
+      "name": "Woreda And",
+      "zoneId": "bsg_assosa",
+      "metadata": {}
+    },
+    {
+      "id": "bsg_assosa_woreda_hulet",
+      "name": "Woreda Hulet",
+      "zoneId": "bsg_assosa",
+      "metadata": {}
+    },
+    {
+      "id": "bsg_metekel_dangur",
+      "name": "Dangur",
+      "zoneId": "bsg_metekel",
+      "metadata": {}
+    },
+    {
+      "id": "bsg_metekel_guba",
+      "name": "Guba",
+      "zoneId": "bsg_metekel",
+      "metadata": {}
+    },
+    {
+      "id": "bsg_metekel_wombera",
+      "name": "Wombera",
+      "zoneId": "bsg_metekel",
+      "metadata": {}
+    },
+    {
+      "id": "bsg_metekel_mandura",
+      "name": "Mandura",
+      "zoneId": "bsg_metekel",
+      "metadata": {}
+    },
+    {
+      "id": "bsg_metekel_debate",
+      "name": "Debate",
+      "zoneId": "bsg_metekel",
+      "metadata": {}
+    },
+    {
+      "id": "bsg_metekel_pawe",
+      "name": "Pawe",
+      "zoneId": "bsg_metekel",
+      "metadata": {}
+    },
+    {
+      "id": "bsg_metekel_bulen",
+      "name": "Bulen",
+      "zoneId": "bsg_metekel",
+      "metadata": {}
+    },
+    {
+      "id": "bsg_kemashi_yasso",
+      "name": "Yasso",
+      "zoneId": "bsg_kemashi",
+      "metadata": {}
+    },
+    {
+      "id": "bsg_kemashi_sedal",
+      "name": "Sedal",
+      "zoneId": "bsg_kemashi",
+      "metadata": {}
+    },
+    {
+      "id": "bsg_kemashi_kemashi",
+      "name": "Kemashi",
+      "zoneId": "bsg_kemashi",
+      "metadata": {}
+    },
+    {
+      "id": "bsg_kemashi_agalo_meti",
+      "name": "Agalo Meti",
+      "zoneId": "bsg_kemashi",
+      "metadata": {}
+    },
+    {
+      "id": "bsg_kemashi_bello_jiganfoy",
+      "name": "Bello Jiganfoy",
+      "zoneId": "bsg_kemashi",
+      "metadata": {}
+    },
+    {
+      "id": "bsg_mao_ena_komo_mao_ena_komo",
+      "name": "Mao Ena Komo",
+      "zoneId": "bsg_mao_ena_komo",
+      "metadata": {}
+    },
+    {
+      "id": "som_siti_aysha",
+      "name": "Aysha",
+      "zoneId": "som_siti",
+      "metadata": {}
+    },
+    {
+      "id": "som_siti_dembel",
+      "name": "Dembel",
+      "zoneId": "som_siti",
+      "metadata": {}
+    },
+    {
+      "id": "som_siti_shinile",
+      "name": "Shinile",
+      "zoneId": "som_siti",
+      "metadata": {}
+    },
+    {
+      "id": "som_siti_erer",
+      "name": "Erer",
+      "zoneId": "som_siti",
+      "metadata": {}
+    },
+    {
+      "id": "som_siti_me_aso",
+      "name": "Me'Aso",
+      "zoneId": "som_siti",
+      "metadata": {}
+    },
+    {
+      "id": "som_siti_afdem",
+      "name": "Afdem",
+      "zoneId": "som_siti",
+      "metadata": {}
+    },
+    {
+      "id": "som_siti_hadigala",
+      "name": "Hadigala",
+      "zoneId": "som_siti",
+      "metadata": {}
+    },
+    {
+      "id": "som_siti_geblalu",
+      "name": "Geblalu",
+      "zoneId": "som_siti",
+      "metadata": {}
+    },
+    {
+      "id": "som_siti_gotabike",
+      "name": "Gotabike",
+      "zoneId": "som_siti",
+      "metadata": {}
+    },
+    {
+      "id": "som_fafan_babile",
+      "name": "Babile",
+      "zoneId": "som_fafan",
+      "metadata": {}
+    },
+    {
+      "id": "som_fafan_gursum",
+      "name": "Gursum",
+      "zoneId": "som_fafan",
+      "metadata": {}
+    },
+    {
+      "id": "som_fafan_togochale_city_admenistration",
+      "name": "Togochale City Admenistration",
+      "zoneId": "som_fafan",
+      "metadata": {}
+    },
+    {
+      "id": "som_fafan_harores",
+      "name": "Harores",
+      "zoneId": "som_fafan",
+      "metadata": {}
+    },
+    {
+      "id": "som_fafan_awebera",
+      "name": "Awebera",
+      "zoneId": "som_fafan",
+      "metadata": {}
+    },
+    {
+      "id": "som_fafan_qebribeyah",
+      "name": "Qebribeyah",
+      "zoneId": "som_fafan",
+      "metadata": {}
+    },
+    {
+      "id": "som_fafan_harshin",
+      "name": "Harshin",
+      "zoneId": "som_fafan",
+      "metadata": {}
+    },
+    {
+      "id": "som_fafan_harewa",
+      "name": "Harewa",
+      "zoneId": "som_fafan",
+      "metadata": {}
+    },
+    {
+      "id": "som_fafan_tulu_guled",
+      "name": "Tulu Guled",
+      "zoneId": "som_fafan",
+      "metadata": {}
+    },
+    {
+      "id": "som_fafan_qoran_mula",
+      "name": "Qoran Mula",
+      "zoneId": "som_fafan",
+      "metadata": {}
+    },
+    {
+      "id": "som_fafan_golgeno",
+      "name": "Golgeno",
+      "zoneId": "som_fafan",
+      "metadata": {}
+    },
+    {
+      "id": "som_fafan_jijiga",
+      "name": "Jijiga",
+      "zoneId": "som_fafan",
+      "metadata": {}
+    },
+    {
+      "id": "som_fafan_south_jigjiga",
+      "name": "South Jigjiga",
+      "zoneId": "som_fafan",
+      "metadata": {}
+    },
+    {
+      "id": "som_jerer_degamedo",
+      "name": "Degamedo",
+      "zoneId": "som_jerer",
+      "metadata": {}
+    },
+    {
+      "id": "som_jerer_degehabur",
+      "name": "Degehabur",
+      "zoneId": "som_jerer",
+      "metadata": {}
+    },
+    {
+      "id": "som_jerer_aware",
+      "name": "Aware",
+      "zoneId": "som_jerer",
+      "metadata": {}
+    },
+    {
+      "id": "som_jerer_gashamo",
+      "name": "Gashamo",
+      "zoneId": "som_jerer",
+      "metadata": {}
+    },
+    {
+      "id": "som_jerer_daror",
+      "name": "Daror",
+      "zoneId": "som_jerer",
+      "metadata": {}
+    },
+    {
+      "id": "som_jerer_ararso",
+      "name": "Ararso",
+      "zoneId": "som_jerer",
+      "metadata": {}
+    },
+    {
+      "id": "som_jerer_buriqot",
+      "name": "Buriqot",
+      "zoneId": "som_jerer",
+      "metadata": {}
+    },
+    {
+      "id": "som_jerer_bilebur",
+      "name": "Bilebur",
+      "zoneId": "som_jerer",
+      "metadata": {}
+    },
+    {
+      "id": "som_jerer_yoale",
+      "name": "Yoale",
+      "zoneId": "som_jerer",
+      "metadata": {}
+    },
+    {
+      "id": "som_jerer_gunegedo",
+      "name": "Gunegedo",
+      "zoneId": "som_jerer",
+      "metadata": {}
+    },
+    {
+      "id": "som_jerer_dig",
+      "name": "Dig",
+      "zoneId": "som_jerer",
+      "metadata": {}
+    },
+    {
+      "id": "som_jerer_degehabur_city_admnistration",
+      "name": "Degehabur City Admnistration",
+      "zoneId": "som_jerer",
+      "metadata": {}
+    },
+    {
+      "id": "som_erer_selihad",
+      "name": "Selihad",
+      "zoneId": "som_erer",
+      "metadata": {}
+    },
+    {
+      "id": "som_erer_fiqi",
+      "name": "Fiqi",
+      "zoneId": "som_erer",
+      "metadata": {}
+    },
+    {
+      "id": "som_erer_yohob",
+      "name": "Yohob",
+      "zoneId": "som_erer",
+      "metadata": {}
+    },
+    {
+      "id": "som_erer_hamero",
+      "name": "Hamero",
+      "zoneId": "som_erer",
+      "metadata": {}
+    },
+    {
+      "id": "som_erer_meyu_muliqe",
+      "name": "Meyu Muliqe",
+      "zoneId": "som_erer",
+      "metadata": {}
+    },
+    {
+      "id": "som_erer_qubi",
+      "name": "Qubi",
+      "zoneId": "som_erer",
+      "metadata": {}
+    },
+    {
+      "id": "som_erer_legahida",
+      "name": "Legahida",
+      "zoneId": "som_erer",
+      "metadata": {}
+    },
+    {
+      "id": "som_erer_wangey",
+      "name": "Wangey",
+      "zoneId": "som_erer",
+      "metadata": {}
+    },
+    {
+      "id": "som_korahe_shakosh",
+      "name": "Shakosh",
+      "zoneId": "som_korahe",
+      "metadata": {}
+    },
+    {
+      "id": "som_korahe_kebridehar",
+      "name": "Kebridehar",
+      "zoneId": "som_korahe",
+      "metadata": {}
+    },
+    {
+      "id": "som_korahe_shilabo",
+      "name": "Shilabo",
+      "zoneId": "som_korahe",
+      "metadata": {}
+    },
+    {
+      "id": "som_korahe_debawayin",
+      "name": "Debawayin",
+      "zoneId": "som_korahe",
+      "metadata": {}
+    },
+    {
+      "id": "som_korahe_lasdenkere",
+      "name": "Lasdenkere",
+      "zoneId": "som_korahe",
+      "metadata": {}
+    },
+    {
+      "id": "som_korahe_marsin",
+      "name": "Marsin",
+      "zoneId": "som_korahe",
+      "metadata": {}
+    },
+    {
+      "id": "som_korahe_el_ogaden",
+      "name": "El_ogaden",
+      "zoneId": "som_korahe",
+      "metadata": {}
+    },
+    {
+      "id": "som_korahe_gogilo",
+      "name": "Gogilo",
+      "zoneId": "som_korahe",
+      "metadata": {}
+    },
+    {
+      "id": "som_korahe_bodelay",
+      "name": "Bodelay",
+      "zoneId": "som_korahe",
+      "metadata": {}
+    },
+    {
+      "id": "som_korahe_higilola",
+      "name": "Higilola",
+      "zoneId": "som_korahe",
+      "metadata": {}
+    },
+    {
+      "id": "som_korahe_qebridahar_citiy_administration",
+      "name": "Qebridahar Citiy Administration",
+      "zoneId": "som_korahe",
+      "metadata": {}
+    },
+    {
+      "id": "som_shebele_east_eme",
+      "name": "East Eme",
+      "zoneId": "som_shebele",
+      "metadata": {}
+    },
+    {
+      "id": "som_shebele_adadle",
+      "name": "Adadle",
+      "zoneId": "som_shebele",
+      "metadata": {}
+    },
+    {
+      "id": "som_shebele_danan",
+      "name": "Danan",
+      "zoneId": "som_shebele",
+      "metadata": {}
+    },
+    {
+      "id": "som_shebele_gode",
+      "name": "Gode",
+      "zoneId": "som_shebele",
+      "metadata": {}
+    },
+    {
+      "id": "som_shebele_kelafo",
+      "name": "Kelafo",
+      "zoneId": "som_shebele",
+      "metadata": {}
+    },
+    {
+      "id": "som_shebele_mustahil",
+      "name": "Mustahil",
+      "zoneId": "som_shebele",
+      "metadata": {}
+    },
+    {
+      "id": "som_shebele_ferfer",
+      "name": "Ferfer",
+      "zoneId": "som_shebele",
+      "metadata": {}
+    },
+    {
+      "id": "som_shebele_abaqero",
+      "name": "Abaqero",
+      "zoneId": "som_shebele",
+      "metadata": {}
+    },
+    {
+      "id": "som_shebele_beerano",
+      "name": "Beerano",
+      "zoneId": "som_shebele",
+      "metadata": {}
+    },
+    {
+      "id": "som_shebele_elelle",
+      "name": "Elelle",
+      "zoneId": "som_shebele",
+      "metadata": {}
+    },
+    {
+      "id": "som_shebele_gode_council",
+      "name": "Gode Council",
+      "zoneId": "som_shebele",
+      "metadata": {}
+    },
+    {
+      "id": "som_dollo_danot",
+      "name": "Danot",
+      "zoneId": "som_dollo",
+      "metadata": {}
+    },
+    {
+      "id": "som_dollo_boh",
+      "name": "Boh",
+      "zoneId": "som_dollo",
+      "metadata": {}
+    },
+    {
+      "id": "som_dollo_galladi",
+      "name": "Galladi",
+      "zoneId": "som_dollo",
+      "metadata": {}
+    },
+    {
+      "id": "som_dollo_warder",
+      "name": "Warder",
+      "zoneId": "som_dollo",
+      "metadata": {}
+    },
+    {
+      "id": "som_dollo_daratole",
+      "name": "Daratole",
+      "zoneId": "som_dollo",
+      "metadata": {}
+    },
+    {
+      "id": "som_dollo_lehel_yuob",
+      "name": "Lehel Yuob",
+      "zoneId": "som_dollo",
+      "metadata": {}
+    },
+    {
+      "id": "som_dollo_gelahemur",
+      "name": "Gelahemur",
+      "zoneId": "som_dollo",
+      "metadata": {}
+    },
+    {
+      "id": "som_dollo_warder_ketema_astedader",
+      "name": "Warder ketema astedader",
+      "zoneId": "som_dollo",
+      "metadata": {}
+    },
+    {
+      "id": "som_afder_raaso",
+      "name": "Raaso",
+      "zoneId": "som_afder",
+      "metadata": {}
+    },
+    {
+      "id": "som_afder_chereti",
+      "name": "Chereti",
+      "zoneId": "som_afder",
+      "metadata": {}
+    },
+    {
+      "id": "som_afder_kohle",
+      "name": "Kohle",
+      "zoneId": "som_afder",
+      "metadata": {}
+    },
+    {
+      "id": "som_afder_elkere",
+      "name": "Elkere",
+      "zoneId": "som_afder",
+      "metadata": {}
+    },
+    {
+      "id": "som_afder_west_emiy",
+      "name": "West Emiy",
+      "zoneId": "som_afder",
+      "metadata": {}
+    },
+    {
+      "id": "som_afder_haregele",
+      "name": "Haregele",
+      "zoneId": "som_afder",
+      "metadata": {}
+    },
+    {
+      "id": "som_afder_bare",
+      "name": "Bare",
+      "zoneId": "som_afder",
+      "metadata": {}
+    },
+    {
+      "id": "som_afder_dolo_bay",
+      "name": "Dolo Bay",
+      "zoneId": "som_afder",
+      "metadata": {}
+    },
+    {
+      "id": "som_afder_godgod",
+      "name": "Godgod",
+      "zoneId": "som_afder",
+      "metadata": {}
+    },
+    {
+      "id": "som_liben_filtu",
+      "name": "Filtu",
+      "zoneId": "som_liben",
+      "metadata": {}
+    },
+    {
+      "id": "som_liben_dolo_addo",
+      "name": "Dolo Addo",
+      "zoneId": "som_liben",
+      "metadata": {}
+    },
+    {
+      "id": "som_liben_deka_softu",
+      "name": "Deka Softu",
+      "zoneId": "som_liben",
+      "metadata": {}
+    },
+    {
+      "id": "som_liben_karssa_dula",
+      "name": "Karssa Dula",
+      "zoneId": "som_liben",
+      "metadata": {}
+    },
+    {
+      "id": "som_liben_bokolmayu",
+      "name": "Bokolmayu",
+      "zoneId": "som_liben",
+      "metadata": {}
+    },
+    {
+      "id": "som_liben_gura_damole",
+      "name": "Gura Damole",
+      "zoneId": "som_liben",
+      "metadata": {}
+    },
+    {
+      "id": "som_liben_goro_bekeksa",
+      "name": "Goro Bekeksa",
+      "zoneId": "som_liben",
+      "metadata": {}
+    },
+    {
+      "id": "som_nogob_elweyne",
+      "name": "Elweyne",
+      "zoneId": "som_nogob",
+      "metadata": {}
+    },
+    {
+      "id": "som_nogob_sagage",
+      "name": "Sagage",
+      "zoneId": "som_nogob",
+      "metadata": {}
+    },
+    {
+      "id": "som_nogob_duhun",
+      "name": "Duhun",
+      "zoneId": "som_nogob",
+      "metadata": {}
+    },
+    {
+      "id": "som_nogob_gerbo",
+      "name": "Gerbo",
+      "zoneId": "som_nogob",
+      "metadata": {}
+    },
+    {
+      "id": "som_nogob_haroshegah",
+      "name": "Haroshegah",
+      "zoneId": "som_nogob",
+      "metadata": {}
+    },
+    {
+      "id": "som_nogob_hararey",
+      "name": "Hararey",
+      "zoneId": "som_nogob",
+      "metadata": {}
+    },
+    {
+      "id": "som_nogob_ayun",
+      "name": "Ayun",
+      "zoneId": "som_nogob",
+      "metadata": {}
+    },
+    {
+      "id": "som_dawa_hudet",
+      "name": "Hudet",
+      "zoneId": "som_dawa",
+      "metadata": {}
+    },
+    {
+      "id": "som_dawa_mubarek",
+      "name": "Mubarek",
+      "zoneId": "som_dawa",
+      "metadata": {}
+    },
+    {
+      "id": "som_dawa_moyale",
+      "name": "Moyale",
+      "zoneId": "som_dawa",
+      "metadata": {}
+    },
+    {
+      "id": "som_dawa_kadaduma",
+      "name": "Kadaduma",
+      "zoneId": "som_dawa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_wollega__mana_sibu",
+      "name": "Mana Sibu",
+      "zoneId": "oro_west_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_wollega__nejo",
+      "name": "Nejo",
+      "zoneId": "oro_west_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_wollega__gimbi_town",
+      "name": "Gimbi Town",
+      "zoneId": "oro_west_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_wollega__lalo_asabi",
+      "name": "Lalo Asabi",
+      "zoneId": "oro_west_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_wollega__kiltu_kara",
+      "name": "Kiltu Kara",
+      "zoneId": "oro_west_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_wollega__bojidimaji",
+      "name": "Bojidimaji",
+      "zoneId": "oro_west_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_wollega__guliso",
+      "name": "Guliso",
+      "zoneId": "oro_west_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_wollega__jarso",
+      "name": "Jarso",
+      "zoneId": "oro_west_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_wollega__kondala",
+      "name": "Kondala",
+      "zoneId": "oro_west_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_wollega__boji_chokorsa",
+      "name": "Boji Chokorsa",
+      "zoneId": "oro_west_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_wollega__babo_gambel",
+      "name": "Babo Gambel",
+      "zoneId": "oro_west_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_wollega__yubdo",
+      "name": "Yubdo",
+      "zoneId": "oro_west_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_wollega__ganji",
+      "name": "Ganji",
+      "zoneId": "oro_west_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_wollega__haru",
+      "name": "Haru",
+      "zoneId": "oro_west_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_wollega__nole_kaba",
+      "name": "Nole Kaba",
+      "zoneId": "oro_west_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_wollega__begi",
+      "name": "Begi",
+      "zoneId": "oro_west_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_wollega__gimbi_town_2",
+      "name": "Gimbi Town",
+      "zoneId": "oro_west_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_wollega__seyo_nole",
+      "name": "Seyo Nole",
+      "zoneId": "oro_west_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_wollega__ayira",
+      "name": "Ayira",
+      "zoneId": "oro_west_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_wollega__homa",
+      "name": "Homa",
+      "zoneId": "oro_west_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_wollega__mandi_town",
+      "name": "Mandi Town",
+      "zoneId": "oro_west_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_wollega__leta_sibu",
+      "name": "Leta Sibu",
+      "zoneId": "oro_west_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_nedjo_city_admin__nedjo_town",
+      "name": "Nedjo Town",
+      "zoneId": "oro_nedjo_city_admin",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_wollega__limu",
+      "name": "Limu",
+      "zoneId": "oro_east_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_wollega__ebantu",
+      "name": "Ebantu",
+      "zoneId": "oro_east_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_wollega__kiramu",
+      "name": "Kiramu",
+      "zoneId": "oro_east_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_wollega__haro_limu",
+      "name": "Haro Limu",
+      "zoneId": "oro_east_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_wollega__bonayaboshe",
+      "name": "Bonayaboshe",
+      "zoneId": "oro_east_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_wollega__wayu_tuqa",
+      "name": "Wayu Tuqa",
+      "zoneId": "oro_east_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_wollega__gudaya_bila",
+      "name": "Gudaya Bila",
+      "zoneId": "oro_east_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_wollega__gobu_seyo",
+      "name": "Gobu Seyo",
+      "zoneId": "oro_east_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_wollega__sibu_sire",
+      "name": "Sibu Sire",
+      "zoneId": "oro_east_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_wollega__diga",
+      "name": "Diga",
+      "zoneId": "oro_east_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_wollega__sasiga",
+      "name": "Sasiga",
+      "zoneId": "oro_east_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_wollega__leka_dulecha",
+      "name": "Leka Dulecha",
+      "zoneId": "oro_east_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_wollega__gutogida",
+      "name": "Gutogida",
+      "zoneId": "oro_east_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_wollega__jima_arjo",
+      "name": "Jima Arjo",
+      "zoneId": "oro_east_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_wollega__nunu_kumba",
+      "name": "Nunu Kumba",
+      "zoneId": "oro_east_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_wollega__wama_hagelo",
+      "name": "Wama Hagelo",
+      "zoneId": "oro_east_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_wollega__gida_ayana",
+      "name": "Gida Ayana",
+      "zoneId": "oro_east_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_wollega__anger_gute_town",
+      "name": "Anger Gute Town",
+      "zoneId": "oro_east_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_ilu_ababor__darimu",
+      "name": "Darimu",
+      "zoneId": "oro_ilu_ababor",
+      "metadata": {}
+    },
+    {
+      "id": "oro_ilu_ababor__alge_sachi",
+      "name": "Alge Sachi",
+      "zoneId": "oro_ilu_ababor",
+      "metadata": {}
+    },
+    {
+      "id": "oro_ilu_ababor__dorani",
+      "name": "Dorani",
+      "zoneId": "oro_ilu_ababor",
+      "metadata": {}
+    },
+    {
+      "id": "oro_ilu_ababor__yayo",
+      "name": "Yayo",
+      "zoneId": "oro_ilu_ababor",
+      "metadata": {}
+    },
+    {
+      "id": "oro_ilu_ababor__hurumu",
+      "name": "Hurumu",
+      "zoneId": "oro_ilu_ababor",
+      "metadata": {}
+    },
+    {
+      "id": "oro_ilu_ababor__bilo_nopa",
+      "name": "Bilo Nopa",
+      "zoneId": "oro_ilu_ababor",
+      "metadata": {}
+    },
+    {
+      "id": "oro_metu_city_admistration__metu_ketama",
+      "name": "Metu Ketama",
+      "zoneId": "oro_metu_city_admistration",
+      "metadata": {}
+    },
+    {
+      "id": "oro_ilu_ababor__metu_woreda",
+      "name": "Metu woreda",
+      "zoneId": "oro_ilu_ababor",
+      "metadata": {}
+    },
+    {
+      "id": "oro_ilu_ababor__bure",
+      "name": "Bure",
+      "zoneId": "oro_ilu_ababor",
+      "metadata": {}
+    },
+    {
+      "id": "oro_ilu_ababor__halu",
+      "name": "Halu",
+      "zoneId": "oro_ilu_ababor",
+      "metadata": {}
+    },
+    {
+      "id": "oro_ilu_ababor__alle",
+      "name": "Alle",
+      "zoneId": "oro_ilu_ababor",
+      "metadata": {}
+    },
+    {
+      "id": "oro_ilu_ababor__bacho",
+      "name": "Bacho",
+      "zoneId": "oro_ilu_ababor",
+      "metadata": {}
+    },
+    {
+      "id": "oro_ilu_ababor__didu",
+      "name": "Didu",
+      "zoneId": "oro_ilu_ababor",
+      "metadata": {}
+    },
+    {
+      "id": "oro_ilu_ababor__nedhi_nono",
+      "name": "Nedhi Nono",
+      "zoneId": "oro_ilu_ababor",
+      "metadata": {}
+    },
+    {
+      "id": "oro_jimma__limu_seka",
+      "name": "Limu Seka",
+      "zoneId": "oro_jimma",
+      "metadata": {}
+    },
+    {
+      "id": "oro_jimma__limu_kosa",
+      "name": "Limu Kosa",
+      "zoneId": "oro_jimma",
+      "metadata": {}
+    },
+    {
+      "id": "oro_jimma__sokoru",
+      "name": "Sokoru",
+      "zoneId": "oro_jimma",
+      "metadata": {}
+    },
+    {
+      "id": "oro_jimma__nedhi_gibe",
+      "name": "Nedhi Gibe",
+      "zoneId": "oro_jimma",
+      "metadata": {}
+    },
+    {
+      "id": "oro_jimma__kersa",
+      "name": "Kersa",
+      "zoneId": "oro_jimma",
+      "metadata": {}
+    },
+    {
+      "id": "oro_jimma__mana",
+      "name": "Mana",
+      "zoneId": "oro_jimma",
+      "metadata": {}
+    },
+    {
+      "id": "oro_jimma__gomma",
+      "name": "Gomma",
+      "zoneId": "oro_jimma",
+      "metadata": {}
+    },
+    {
+      "id": "oro_jimma__gera",
+      "name": "Gera",
+      "zoneId": "oro_jimma",
+      "metadata": {}
+    },
+    {
+      "id": "oro_jimma__seka_chekorsa",
+      "name": "Seka Chekorsa",
+      "zoneId": "oro_jimma",
+      "metadata": {}
+    },
+    {
+      "id": "oro_jimma__dedo",
+      "name": "Dedo",
+      "zoneId": "oro_jimma",
+      "metadata": {}
+    },
+    {
+      "id": "oro_jimma__omo_nada",
+      "name": "Omo Nada",
+      "zoneId": "oro_jimma",
+      "metadata": {}
+    },
+    {
+      "id": "oro_jimma__sigimo",
+      "name": "Sigimo",
+      "zoneId": "oro_jimma",
+      "metadata": {}
+    },
+    {
+      "id": "oro_jimma__setema",
+      "name": "Setema",
+      "zoneId": "oro_jimma",
+      "metadata": {}
+    },
+    {
+      "id": "oro_jimma__shebe_sonbo",
+      "name": "Shebe Sonbo",
+      "zoneId": "oro_jimma",
+      "metadata": {}
+    },
+    {
+      "id": "oro_jimma__cora_botar",
+      "name": "Cora Botar",
+      "zoneId": "oro_jimma",
+      "metadata": {}
+    },
+    {
+      "id": "oro_jimma__gumay",
+      "name": "Gumay",
+      "zoneId": "oro_jimma",
+      "metadata": {}
+    },
+    {
+      "id": "oro_jimma__limu_genet",
+      "name": "Limu Genet",
+      "zoneId": "oro_jimma",
+      "metadata": {}
+    },
+    {
+      "id": "oro_jimma__boter_tolay",
+      "name": "Boter Tolay",
+      "zoneId": "oro_jimma",
+      "metadata": {}
+    },
+    {
+      "id": "oro_jimma__nono_benja",
+      "name": "Nono Benja",
+      "zoneId": "oro_jimma",
+      "metadata": {}
+    },
+    {
+      "id": "oro_jimma__omo_beyam",
+      "name": "Omo Beyam",
+      "zoneId": "oro_jimma",
+      "metadata": {}
+    },
+    {
+      "id": "oro_jimma__mencho",
+      "name": "Mencho",
+      "zoneId": "oro_jimma",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_shewa__gindeberet",
+      "name": "Gindeberet",
+      "zoneId": "oro_west_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_shewa__jeldu",
+      "name": "Jeldu",
+      "zoneId": "oro_west_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_shewa__ambo_zuriyai",
+      "name": "Ambo Zuriyai",
+      "zoneId": "oro_west_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_shewa__medakegn",
+      "name": "Medakegn",
+      "zoneId": "oro_west_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_shewa__cheliya",
+      "name": "Cheliya",
+      "zoneId": "oro_west_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_shewa__bako_tibe",
+      "name": "Bako Tibe",
+      "zoneId": "oro_west_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_shewa__dano",
+      "name": "Dano",
+      "zoneId": "oro_west_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_shewa__nono",
+      "name": "Nono",
+      "zoneId": "oro_west_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_shewa__dire_inchini",
+      "name": "Dire Inchini",
+      "zoneId": "oro_west_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_shewa__dendi",
+      "name": "Dendi",
+      "zoneId": "oro_west_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_shewa__ejere",
+      "name": "Ejere",
+      "zoneId": "oro_west_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_shewa__adea_berga",
+      "name": "Adea Berga",
+      "zoneId": "oro_west_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_shewa__meta_robi",
+      "name": "Meta Robi",
+      "zoneId": "oro_west_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_shewa__jawi_liban",
+      "name": "Jawi Liban",
+      "zoneId": "oro_west_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_shewa__chobi",
+      "name": "Chobi",
+      "zoneId": "oro_west_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_shewa__abuna_gindeberet",
+      "name": "Abuna Gindeberet",
+      "zoneId": "oro_west_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_shewa__toke_kutaye",
+      "name": "Toke Kutaye",
+      "zoneId": "oro_west_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_shewa__jibat",
+      "name": "Jibat",
+      "zoneId": "oro_west_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_shewa__elfeta",
+      "name": "Elfeta",
+      "zoneId": "oro_west_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_shewa__ilu_galan",
+      "name": "Ilu Galan",
+      "zoneId": "oro_west_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_shewa__meta_walkite",
+      "name": "Meta Walkite",
+      "zoneId": "oro_west_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_shewa__ejersa_lafo",
+      "name": "Ejersa Lafo",
+      "zoneId": "oro_west_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_holeta_city_admin__holeta_town",
+      "name": "Holeta Town",
+      "zoneId": "oro_holeta_city_admin",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_shewa__welmera",
+      "name": "Welmera",
+      "zoneId": "oro_west_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_north_shewa__wara_jarso",
+      "name": "Wara Jarso",
+      "zoneId": "oro_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_north_shewa__darra",
+      "name": "Darra",
+      "zoneId": "oro_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_north_shewa__hidebu_abote",
+      "name": "Hidebu Abote",
+      "zoneId": "oro_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_north_shewa__kuyu",
+      "name": "Kuyu",
+      "zoneId": "oro_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_north_shewa__dagam",
+      "name": "Dagam",
+      "zoneId": "oro_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_north_shewa__girar_jarso",
+      "name": "Girar Jarso",
+      "zoneId": "oro_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_north_shewa__debre_libanos",
+      "name": "Debre Libanos",
+      "zoneId": "oro_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_north_shewa__wuchale",
+      "name": "Wuchale",
+      "zoneId": "oro_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_north_shewa__abichu_and_gnea_woreda",
+      "name": "Abichu And Gnea Woreda",
+      "zoneId": "oro_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_north_shewa__kimbibit",
+      "name": "Kimbibit",
+      "zoneId": "oro_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_north_shewa__yaya_gulele",
+      "name": "Yaya Gulele",
+      "zoneId": "oro_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_north_shewa__jida",
+      "name": "Jida",
+      "zoneId": "oro_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_north_shewa__fiche",
+      "name": "Fiche",
+      "zoneId": "oro_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_north_shewa__aleltu",
+      "name": "Aleltu",
+      "zoneId": "oro_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_north_shewa__mulo",
+      "name": "Mulo",
+      "zoneId": "oro_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_north_shewa__sululta",
+      "name": "Sululta",
+      "zoneId": "oro_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_north_shewa__berak",
+      "name": "Berak",
+      "zoneId": "oro_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_shewa__fentale",
+      "name": "Fentale",
+      "zoneId": "oro_east_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_shewa__boset",
+      "name": "Boset",
+      "zoneId": "oro_east_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_shewa__adama",
+      "name": "Adama",
+      "zoneId": "oro_east_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_shewa__lume",
+      "name": "Lume",
+      "zoneId": "oro_east_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_shewa__gimbichu",
+      "name": "Gimbichu",
+      "zoneId": "oro_east_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_shewa__adea",
+      "name": "Adea",
+      "zoneId": "oro_east_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_shewa__dugda",
+      "name": "Dugda",
+      "zoneId": "oro_east_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_shewa__adamitulu_jido_kombolcha",
+      "name": "Adamitulu Jido Kombolcha",
+      "zoneId": "oro_east_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_shewa__akeki",
+      "name": "Akeki",
+      "zoneId": "oro_east_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_shewa__bora",
+      "name": "Bora",
+      "zoneId": "oro_east_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_shewa__liben_chukala",
+      "name": "Liben Chukala",
+      "zoneId": "oro_east_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_arsi__merti",
+      "name": "Merti",
+      "zoneId": "oro_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_arsi__aseko",
+      "name": "Aseko",
+      "zoneId": "oro_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_arsi__jeju",
+      "name": "Jeju",
+      "zoneId": "oro_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_arsi__dodota",
+      "name": "Dodota",
+      "zoneId": "oro_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_arsi__zewaydugda",
+      "name": "Zewaydugda",
+      "zoneId": "oro_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_arsi__hitosa",
+      "name": "Hitosa",
+      "zoneId": "oro_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_arsi__sude",
+      "name": "Sude",
+      "zoneId": "oro_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_arsi__chole",
+      "name": "Chole",
+      "zoneId": "oro_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_arsi__amigna",
+      "name": "Amigna",
+      "zoneId": "oro_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_arsi__gololcha",
+      "name": "Gololcha",
+      "zoneId": "oro_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_arsi__seru",
+      "name": "Seru",
+      "zoneId": "oro_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_arsi__robe",
+      "name": "Robe",
+      "zoneId": "oro_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_arsi__tena",
+      "name": "Tena",
+      "zoneId": "oro_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_arsi__shirka",
+      "name": "Shirka",
+      "zoneId": "oro_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_arsi__digalu_na_tijo",
+      "name": "Digalu Na Tijo",
+      "zoneId": "oro_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_arsi__tiyo",
+      "name": "Tiyo",
+      "zoneId": "oro_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_arsi__munesa",
+      "name": "Munesa",
+      "zoneId": "oro_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_arsi__lemu_na_bilbilo",
+      "name": "Lemu Na Bilbilo",
+      "zoneId": "oro_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_arsi__guna",
+      "name": "Guna",
+      "zoneId": "oro_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_arsi__sire",
+      "name": "Sire",
+      "zoneId": "oro_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_arsi__lodehitosa",
+      "name": "Lodehitosa",
+      "zoneId": "oro_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_arsi__diksis",
+      "name": "Diksis",
+      "zoneId": "oro_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_arsi__bele_gesigar",
+      "name": "Bele Gesigar",
+      "zoneId": "oro_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_arsi__honkolo_wabe",
+      "name": "Honkolo Wabe",
+      "zoneId": "oro_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_arsi__shanen_kolu",
+      "name": "Shanen Kolu",
+      "zoneId": "oro_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_arsi__bekoji_city_admin",
+      "name": "Bekoji City Admin",
+      "zoneId": "oro_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_hararghe__mieso",
+      "name": "Mieso",
+      "zoneId": "oro_west_hararghe",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_hararghe__doba",
+      "name": "Doba",
+      "zoneId": "oro_west_hararghe",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_hararghe__tulo",
+      "name": "Tulo",
+      "zoneId": "oro_west_hararghe",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_hararghe__shanan_dhugo",
+      "name": "shanan dhugo",
+      "zoneId": "oro_west_hararghe",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_hararghe__chiro_town_administration",
+      "name": "Chiro Town Administration",
+      "zoneId": "oro_west_hararghe",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_hararghe__ancar",
+      "name": "Ancar",
+      "zoneId": "oro_west_hararghe",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_hararghe__guba_koricha",
+      "name": "Guba Koricha",
+      "zoneId": "oro_west_hararghe",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_hararghe__habro",
+      "name": "Habro",
+      "zoneId": "oro_west_hararghe",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_hararghe__daro_labu",
+      "name": "Daro Labu",
+      "zoneId": "oro_west_hararghe",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_hararghe__boke",
+      "name": "Boke",
+      "zoneId": "oro_west_hararghe",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_hararghe__oda_bultum",
+      "name": "Oda Bultum",
+      "zoneId": "oro_west_hararghe",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_hararghe__gemechis",
+      "name": "Gemechis",
+      "zoneId": "oro_west_hararghe",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_hararghe__chiro",
+      "name": "Chiro",
+      "zoneId": "oro_west_hararghe",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_hararghe__bedesa_town_administration",
+      "name": "Bedesa Town Administration",
+      "zoneId": "oro_west_hararghe",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_hararghe__gumbi_bordede",
+      "name": "Gumbi Bordede",
+      "zoneId": "oro_west_hararghe",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_hararghe__hawi_gudina",
+      "name": "Hawi Gudina",
+      "zoneId": "oro_west_hararghe",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_hararghe__burka_dhintu",
+      "name": "Burka Dhintu",
+      "zoneId": "oro_west_hararghe",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_hararghe__machara_miceta_town_administration",
+      "name": "Machara_Miceta Town Administration",
+      "zoneId": "oro_west_hararghe",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_hararghe__gelemso_town_administration",
+      "name": "Gelemso Town Administration",
+      "zoneId": "oro_west_hararghe",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_hararghe__hirna_town_administration",
+      "name": "Hirna Town Administration",
+      "zoneId": "oro_west_hararghe",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_hararge__kombolcha",
+      "name": "Kombolcha",
+      "zoneId": "oro_east_hararge",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_hararge__jarso",
+      "name": "Jarso",
+      "zoneId": "oro_east_hararge",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_hararge__gursum",
+      "name": "Gursum",
+      "zoneId": "oro_east_hararge",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_hararge__babile",
+      "name": "Babile",
+      "zoneId": "oro_east_hararge",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_hararge__fedis",
+      "name": "Fedis",
+      "zoneId": "oro_east_hararge",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_hararge__haremaya",
+      "name": "Haremaya",
+      "zoneId": "oro_east_hararge",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_hararge__kurfa_chele",
+      "name": "Kurfa Chele",
+      "zoneId": "oro_east_hararge",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_hararge__kersa",
+      "name": "Kersa",
+      "zoneId": "oro_east_hararge",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_hararge__meta",
+      "name": "Meta",
+      "zoneId": "oro_east_hararge",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_hararge__gorogutu",
+      "name": "Gorogutu",
+      "zoneId": "oro_east_hararge",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_hararge__deder",
+      "name": "Deder",
+      "zoneId": "oro_east_hararge",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_hararge__melka_belo",
+      "name": "Melka Belo",
+      "zoneId": "oro_east_hararge",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_hararge__bedeno",
+      "name": "Bedeno",
+      "zoneId": "oro_east_hararge",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_hararge__midaga_tola",
+      "name": "Midaga Tola",
+      "zoneId": "oro_east_hararge",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_hararge__chinaksen",
+      "name": "Chinaksen",
+      "zoneId": "oro_east_hararge",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_hararge__girawa",
+      "name": "Girawa",
+      "zoneId": "oro_east_hararge",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_hararge__golo_oda",
+      "name": "Golo Oda",
+      "zoneId": "oro_east_hararge",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_hararge__meyu_muluke",
+      "name": "Meyu Muluke",
+      "zoneId": "oro_east_hararge",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_hararge__goro_muti",
+      "name": "Goro Muti",
+      "zoneId": "oro_east_hararge",
+      "metadata": {}
+    },
+    {
+      "id": "oro_maya_city__haramaya_subcity",
+      "name": "Haramaya subcity",
+      "zoneId": "oro_maya_city",
+      "metadata": {}
+    },
+    {
+      "id": "oro_maya_city__awaday_subcity",
+      "name": "Awaday subcity",
+      "zoneId": "oro_maya_city",
+      "metadata": {}
+    },
+    {
+      "id": "oro_maya_city__adele_subcity",
+      "name": "Adele subcity",
+      "zoneId": "oro_maya_city",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_hararge__kumbi",
+      "name": "Kumbi",
+      "zoneId": "oro_east_hararge",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_hararge__deder_ketema_asetedader",
+      "name": "Deder Ketema Asetedader",
+      "zoneId": "oro_east_hararge",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_hararge__babile_city_admin",
+      "name": "Babile City Admin",
+      "zoneId": "oro_east_hararge",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_hararge__makanisa_oromo",
+      "name": "Makanisa Oromo",
+      "zoneId": "oro_east_hararge",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_bale__agarfa",
+      "name": "Agarfa",
+      "zoneId": "oro_west_bale",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_bale__gasera",
+      "name": "Gasera",
+      "zoneId": "oro_west_bale",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_bale__sinana",
+      "name": "Sinana",
+      "zoneId": "oro_west_bale",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_bale__dinsho",
+      "name": "Dinsho",
+      "zoneId": "oro_west_bale",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_bale__goba",
+      "name": "Goba",
+      "zoneId": "oro_west_bale",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_bale__goro",
+      "name": "Goro",
+      "zoneId": "oro_west_bale",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_bale__gura_damole",
+      "name": "Gura Damole",
+      "zoneId": "oro_west_bale",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_bale__berbere",
+      "name": "Berbere",
+      "zoneId": "oro_west_bale",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_bale__delo_mena",
+      "name": "Delo Mena",
+      "zoneId": "oro_west_bale",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_bale__arena_buluk",
+      "name": "Arena Buluk",
+      "zoneId": "oro_west_bale",
+      "metadata": {}
+    },
+    {
+      "id": "oro_robe_city__goba_ketema",
+      "name": "Goba Ketema",
+      "zoneId": "oro_robe_city",
+      "metadata": {}
+    },
+    {
+      "id": "oro_borena__dubluk",
+      "name": "Dubluk",
+      "zoneId": "oro_borena",
+      "metadata": {}
+    },
+    {
+      "id": "oro_borena__dilo",
+      "name": "Dilo",
+      "zoneId": "oro_borena",
+      "metadata": {}
+    },
+    {
+      "id": "oro_borena__guchi",
+      "name": "Guchi",
+      "zoneId": "oro_borena",
+      "metadata": {}
+    },
+    {
+      "id": "oro_borena__yabelo_town",
+      "name": "Yabelo Town",
+      "zoneId": "oro_borena",
+      "metadata": {}
+    },
+    {
+      "id": "oro_borena__yabalo",
+      "name": "Yabalo",
+      "zoneId": "oro_borena",
+      "metadata": {}
+    },
+    {
+      "id": "oro_borena__moyale",
+      "name": "Moyale",
+      "zoneId": "oro_borena",
+      "metadata": {}
+    },
+    {
+      "id": "oro_borena__gomole",
+      "name": "Gomole",
+      "zoneId": "oro_borena",
+      "metadata": {}
+    },
+    {
+      "id": "oro_moyale_town__moyale_town",
+      "name": "Moyale town",
+      "zoneId": "oro_moyale_town",
+      "metadata": {}
+    },
+    {
+      "id": "oro_borena__dire",
+      "name": "Dire",
+      "zoneId": "oro_borena",
+      "metadata": {}
+    },
+    {
+      "id": "oro_borena__teltele",
+      "name": "Teltele",
+      "zoneId": "oro_borena",
+      "metadata": {}
+    },
+    {
+      "id": "oro_borena__miyo",
+      "name": "Miyo",
+      "zoneId": "oro_borena",
+      "metadata": {}
+    },
+    {
+      "id": "oro_borena__el_waye",
+      "name": "El Waye",
+      "zoneId": "oro_borena",
+      "metadata": {}
+    },
+    {
+      "id": "oro_south_west_shewa__ameya",
+      "name": "Ameya",
+      "zoneId": "oro_south_west_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_south_west_shewa__wenchi",
+      "name": "Wenchi",
+      "zoneId": "oro_south_west_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_south_west_shewa__woliso",
+      "name": "Woliso",
+      "zoneId": "oro_south_west_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_south_west_shewa__dawo",
+      "name": "Dawo",
+      "zoneId": "oro_south_west_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_south_west_shewa__ilu",
+      "name": "Ilu",
+      "zoneId": "oro_south_west_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_south_west_shewa__goro",
+      "name": "Goro",
+      "zoneId": "oro_south_west_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_south_west_shewa__kersa_malima",
+      "name": "Kersa Malima",
+      "zoneId": "oro_south_west_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_south_west_shewa__tole",
+      "name": "Tole-",
+      "zoneId": "oro_south_west_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_south_west_shewa__bacho",
+      "name": "Bacho",
+      "zoneId": "oro_south_west_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_south_west_shewa__saden_soddo",
+      "name": "Saden Soddo",
+      "zoneId": "oro_south_west_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_south_west_shewa__sodo_dachi",
+      "name": "Sodo Dachi",
+      "zoneId": "oro_south_west_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_south_west_shewa__sabata_hawas",
+      "name": "Sabata Hawas",
+      "zoneId": "oro_south_west_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "oro_guji__bore",
+      "name": "Bore",
+      "zoneId": "oro_guji",
+      "metadata": {}
+    },
+    {
+      "id": "oro_guji__uraga",
+      "name": "Uraga",
+      "zoneId": "oro_guji",
+      "metadata": {}
+    },
+    {
+      "id": "oro_guji__adola_rede",
+      "name": "Adola rede",
+      "zoneId": "oro_guji",
+      "metadata": {}
+    },
+    {
+      "id": "oro_guji__wadara",
+      "name": "Wadara",
+      "zoneId": "oro_guji",
+      "metadata": {}
+    },
+    {
+      "id": "oro_guji__odo_shakiso",
+      "name": "Odo Shakiso",
+      "zoneId": "oro_guji",
+      "metadata": {}
+    },
+    {
+      "id": "oro_guji__aga_wayu",
+      "name": "Aga Wayu",
+      "zoneId": "oro_guji",
+      "metadata": {}
+    },
+    {
+      "id": "oro_guji__arda_jila",
+      "name": "Arda jila",
+      "zoneId": "oro_guji",
+      "metadata": {}
+    },
+    {
+      "id": "oro_guji__dama",
+      "name": "Dama",
+      "zoneId": "oro_guji",
+      "metadata": {}
+    },
+    {
+      "id": "oro_guji__seba_boru",
+      "name": "Seba Boru",
+      "zoneId": "oro_guji",
+      "metadata": {}
+    },
+    {
+      "id": "oro_guji__gereja",
+      "name": "Gereja",
+      "zoneId": "oro_guji",
+      "metadata": {}
+    },
+    {
+      "id": "oro_guji__adola_wayu_ketema",
+      "name": "Adola Wayu Ketema",
+      "zoneId": "oro_guji",
+      "metadata": {}
+    },
+    {
+      "id": "oro_guji__haro_welabu",
+      "name": "Haro Welabu",
+      "zoneId": "oro_guji",
+      "metadata": {}
+    },
+    {
+      "id": "oro_shakiso_town__shakiso_ketema_astedader",
+      "name": "Shakiso Ketema Astedader",
+      "zoneId": "oro_shakiso_town",
+      "metadata": {}
+    },
+    {
+      "id": "oro_guji__anasora",
+      "name": "Anasora",
+      "zoneId": "oro_guji",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_guji__abaya",
+      "name": "Abaya",
+      "zoneId": "oro_west_guji",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_guji__galana",
+      "name": "Galana",
+      "zoneId": "oro_west_guji",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_guji__hambela_wamena",
+      "name": "Hambela Wamena",
+      "zoneId": "oro_west_guji",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_guji__birbirsa_kojowa",
+      "name": "Birbirsa Kojowa",
+      "zoneId": "oro_west_guji",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_guji__kercha",
+      "name": "Kercha",
+      "zoneId": "oro_west_guji",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_guji__bule_hora",
+      "name": "Bule Hora",
+      "zoneId": "oro_west_guji",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_guji__suro_barrguda",
+      "name": "Suro Barrguda",
+      "zoneId": "oro_west_guji",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_guji__dugda_dawa",
+      "name": "Dugda Dawa",
+      "zoneId": "oro_west_guji",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_guji__malka_sodda",
+      "name": "Malka Sodda",
+      "zoneId": "oro_west_guji",
+      "metadata": {}
+    },
+    {
+      "id": "oro_bule_hora_town__bule_hora_city_administration",
+      "name": "Bule Hora City Administration",
+      "zoneId": "oro_bule_hora_town",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_arsi__siraro",
+      "name": "Siraro",
+      "zoneId": "oro_west_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_arsi__shala",
+      "name": "Shala",
+      "zoneId": "oro_west_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_arsi__arsi_negele",
+      "name": "Arsi Negele",
+      "zoneId": "oro_west_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_arsi__kofale",
+      "name": "Kofale",
+      "zoneId": "oro_west_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_arsi__kore",
+      "name": "Kore",
+      "zoneId": "oro_west_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_arsi__gadeb_asesa",
+      "name": "Gadeb Asesa",
+      "zoneId": "oro_west_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_arsi__dodola",
+      "name": "Dodola",
+      "zoneId": "oro_west_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_arsi__kokossa",
+      "name": "Kokossa",
+      "zoneId": "oro_west_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_arsi__nensebo",
+      "name": "Nensebo",
+      "zoneId": "oro_west_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_arsi__adaba",
+      "name": "Adaba",
+      "zoneId": "oro_west_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_arsi__wendo",
+      "name": "Wendo",
+      "zoneId": "oro_west_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_arsi__heben_arsi",
+      "name": "Heben Arsi",
+      "zoneId": "oro_west_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_arsi__arsi_negele_city_administration",
+      "name": "Arsi Negele City Administration",
+      "zoneId": "oro_west_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_west_arsi__shashemane",
+      "name": "Shashemane",
+      "zoneId": "oro_west_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_kelem_wollega__hawagalan",
+      "name": "Hawagalan",
+      "zoneId": "oro_kelem_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_kelem_wollega__yemalogi_walal",
+      "name": "Yemalogi Walal",
+      "zoneId": "oro_kelem_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_kelem_wollega__dallewabara",
+      "name": "Dallewabara",
+      "zoneId": "oro_kelem_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_kelem_wollega__gawo_kebe",
+      "name": "Gawo Kebe",
+      "zoneId": "oro_kelem_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_kelem_wollega__seyo",
+      "name": "Seyo",
+      "zoneId": "oro_kelem_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_kelem_wollega__dambi_dollo_town",
+      "name": "Dambi Dollo Town",
+      "zoneId": "oro_kelem_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_kelem_wollega__anfilo",
+      "name": "Anfilo",
+      "zoneId": "oro_kelem_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_kelem_wollega__dalle_sadi",
+      "name": "Dalle Sadi",
+      "zoneId": "oro_kelem_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_kelem_wollega__gidami",
+      "name": "Gidami",
+      "zoneId": "oro_kelem_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_kelem_wollega__jima_horo",
+      "name": "Jima Horo",
+      "zoneId": "oro_kelem_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_kelem_wollega__laloqile",
+      "name": "Laloqile",
+      "zoneId": "oro_kelem_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_kelem_wollega__chanka_woreda",
+      "name": "Chanka Woreda",
+      "zoneId": "oro_kelem_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_horo_guduru_wollega__horo",
+      "name": "Horo",
+      "zoneId": "oro_horo_guduru_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_horo_guduru_wollega__shambu_town",
+      "name": "Shambu Town",
+      "zoneId": "oro_horo_guduru_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_horo_guduru_wollega__guduru",
+      "name": "Guduru",
+      "zoneId": "oro_horo_guduru_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_horo_guduru_wollega__hababo_guduru",
+      "name": "Hababo Guduru",
+      "zoneId": "oro_horo_guduru_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_horo_guduru_wollega__abay_choman",
+      "name": "Abay Choman",
+      "zoneId": "oro_horo_guduru_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_horo_guduru_wollega__jimma_genate",
+      "name": "Jimma Genate",
+      "zoneId": "oro_horo_guduru_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_horo_guduru_wollega__jima_rare",
+      "name": "Jima Rare",
+      "zoneId": "oro_horo_guduru_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_horo_guduru_wollega__jardaga_jarte",
+      "name": "Jardaga Jarte",
+      "zoneId": "oro_horo_guduru_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_horo_guduru_wollega__amuru",
+      "name": "Amuru",
+      "zoneId": "oro_horo_guduru_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_horo_guduru_wollega__abedongoro",
+      "name": "Abedongoro",
+      "zoneId": "oro_horo_guduru_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_horo_guduru_wollega__chemon_guduru",
+      "name": "Chemon Guduru",
+      "zoneId": "oro_horo_guduru_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_horo_guduru_wollega__horo_buluk",
+      "name": "Horo Buluk",
+      "zoneId": "oro_horo_guduru_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_horo_guduru_wollega__sulula_fincha_a",
+      "name": "Sulula Fincha'a",
+      "zoneId": "oro_horo_guduru_wollega",
+      "metadata": {}
+    },
+    {
+      "id": "oro_buno_bedele__chora",
+      "name": "Chora",
+      "zoneId": "oro_buno_bedele",
+      "metadata": {}
+    },
+    {
+      "id": "oro_buno_bedele__bedele_zuriya",
+      "name": "Bedele Zuriya",
+      "zoneId": "oro_buno_bedele",
+      "metadata": {}
+    },
+    {
+      "id": "oro_buno_bedele__chewaka",
+      "name": "Chewaka",
+      "zoneId": "oro_buno_bedele",
+      "metadata": {}
+    },
+    {
+      "id": "oro_buno_bedele__dega",
+      "name": "Dega",
+      "zoneId": "oro_buno_bedele",
+      "metadata": {}
+    },
+    {
+      "id": "oro_buno_bedele__dabo_hana",
+      "name": "Dabo Hana",
+      "zoneId": "oro_buno_bedele",
+      "metadata": {}
+    },
+    {
+      "id": "oro_buno_bedele__gechi",
+      "name": "Gechi",
+      "zoneId": "oro_buno_bedele",
+      "metadata": {}
+    },
+    {
+      "id": "oro_buno_bedele__borecha",
+      "name": "Borecha",
+      "zoneId": "oro_buno_bedele",
+      "metadata": {}
+    },
+    {
+      "id": "oro_buno_bedele__didessa",
+      "name": "Didessa",
+      "zoneId": "oro_buno_bedele",
+      "metadata": {}
+    },
+    {
+      "id": "oro_buno_bedele__makko",
+      "name": "Makko",
+      "zoneId": "oro_buno_bedele",
+      "metadata": {}
+    },
+    {
+      "id": "oro_buno_bedele__bedele_ketama_astadeder",
+      "name": "Bedele Ketama Astadeder",
+      "zoneId": "oro_buno_bedele",
+      "metadata": {}
+    },
+    {
+      "id": "oro_asela_liyu_zone__assela",
+      "name": "Assela",
+      "zoneId": "oro_asela_liyu_zone",
+      "metadata": {}
+    },
+    {
+      "id": "oro_nekemte_city_admin__nekemte_town",
+      "name": "Nekemte Town",
+      "zoneId": "oro_nekemte_city_admin",
+      "metadata": {}
+    },
+    {
+      "id": "oro_jimma_liyu__jimma",
+      "name": "Jimma",
+      "zoneId": "oro_jimma_liyu",
+      "metadata": {}
+    },
+    {
+      "id": "oro_robe_liyu_zone__robe_ketema_astedader",
+      "name": "Robe Ketema Astedader",
+      "zoneId": "oro_robe_liyu_zone",
+      "metadata": {}
+    },
+    {
+      "id": "oro_ambo_city_admin__ambo_town",
+      "name": "Ambo Town",
+      "zoneId": "oro_ambo_city_admin",
+      "metadata": {}
+    },
+    {
+      "id": "oro_batu_liyu_zone__batu_ketema_astedader",
+      "name": "Batu Ketema Astedader",
+      "zoneId": "oro_batu_liyu_zone",
+      "metadata": {}
+    },
+    {
+      "id": "oro_modjo_liyu_zone__modjo",
+      "name": "Modjo",
+      "zoneId": "oro_modjo_liyu_zone",
+      "metadata": {}
+    },
+    {
+      "id": "oro_woliso_city_admin__woliso_town",
+      "name": "Woliso Town",
+      "zoneId": "oro_woliso_city_admin",
+      "metadata": {}
+    },
+    {
+      "id": "oro_bishan_guracha_liyu_zone__bishan_guracha_city_adiminestration",
+      "name": "Bishan Guracha City Adiminestration",
+      "zoneId": "oro_bishan_guracha_liyu_zone",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_bale__gololcha",
+      "name": "Gololcha",
+      "zoneId": "oro_east_bale",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_bale__legahida",
+      "name": "Legahida",
+      "zoneId": "oro_east_bale",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_bale__seweyna",
+      "name": "Seweyna",
+      "zoneId": "oro_east_bale",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_bale__ginir",
+      "name": "Ginir",
+      "zoneId": "oro_east_bale",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_bale__rayitu",
+      "name": "Rayitu",
+      "zoneId": "oro_east_bale",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_bale__dawe_kachin",
+      "name": "Dawe Kachin",
+      "zoneId": "oro_east_bale",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_bale__dawe_serer",
+      "name": "Dawe Serer",
+      "zoneId": "oro_east_bale",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_bale__ginir_ketema_astedader",
+      "name": "Ginir Ketema Astedader",
+      "zoneId": "oro_east_bale",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_borena__meda_welabu",
+      "name": "Meda Welabu",
+      "zoneId": "oro_east_borena",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_borena__west_welabu",
+      "name": "West Welabu",
+      "zoneId": "oro_east_borena",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_borena__goro_dola",
+      "name": "Goro Dola",
+      "zoneId": "oro_east_borena",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_borena__negele_borena_city_administration",
+      "name": "Negele Borena City Administration",
+      "zoneId": "oro_east_borena",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_borena__liben",
+      "name": "Liben",
+      "zoneId": "oro_east_borena",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_borena__gumi_eldalo",
+      "name": "Gumi Eldalo",
+      "zoneId": "oro_east_borena",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_borena__arero",
+      "name": "Arero",
+      "zoneId": "oro_east_borena",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_borena__wachile",
+      "name": "Wachile",
+      "zoneId": "oro_east_borena",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_borena__dhasi",
+      "name": "Dhasi",
+      "zoneId": "oro_east_borena",
+      "metadata": {}
+    },
+    {
+      "id": "oro_dodola_town__dodola_city_administration",
+      "name": "Dodola City Administration",
+      "zoneId": "oro_dodola_town",
+      "metadata": {}
+    },
+    {
+      "id": "oro_sendafa_bake_liyu_zone__sendafa_bake",
+      "name": "Sendafa Bake",
+      "zoneId": "oro_sendafa_bake_liyu_zone",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_arsi__dera_ketema_astedader",
+      "name": "Dera Ketema Astedader",
+      "zoneId": "oro_east_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_east_arsi__huruta_ketema_astedader",
+      "name": "Huruta Ketema Astedader",
+      "zoneId": "oro_east_arsi",
+      "metadata": {}
+    },
+    {
+      "id": "oro_adama_liyu_zone__aba_geda_oda",
+      "name": "Aba Geda – Oda",
+      "zoneId": "oro_adama_liyu_zone",
+      "metadata": {}
+    },
+    {
+      "id": "oro_adama_liyu_zone__aba_geda_bedatu",
+      "name": "Aba Geda – Bedatu",
+      "zoneId": "oro_adama_liyu_zone",
+      "metadata": {}
+    },
+    {
+      "id": "oro_adama_liyu_zone__aba_geda_degaga",
+      "name": "Aba Geda – Degaga",
+      "zoneId": "oro_adama_liyu_zone",
+      "metadata": {}
+    },
+    {
+      "id": "oro_adama_liyu_zone__bole_goro",
+      "name": "Bole – Goro",
+      "zoneId": "oro_adama_liyu_zone",
+      "metadata": {}
+    },
+    {
+      "id": "oro_adama_liyu_zone__bole_dhaka_adi",
+      "name": "Bole – Dhaka Adi",
+      "zoneId": "oro_adama_liyu_zone",
+      "metadata": {}
+    },
+    {
+      "id": "oro_adama_liyu_zone__bole_dhadecha_arara",
+      "name": "Bole – Dhadecha Arara",
+      "zoneId": "oro_adama_liyu_zone",
+      "metadata": {}
+    },
+    {
+      "id": "oro_adama_liyu_zone__bole_andode",
+      "name": "Bole – Andode",
+      "zoneId": "oro_adama_liyu_zone",
+      "metadata": {}
+    },
+    {
+      "id": "oro_adama_liyu_zone__dabe_soloke_dongore",
+      "name": "Dabe – Soloke Dongore",
+      "zoneId": "oro_adama_liyu_zone",
+      "metadata": {}
+    },
+    {
+      "id": "oro_adama_liyu_zone__dabe_chafe",
+      "name": "Dabe – Chafe",
+      "zoneId": "oro_adama_liyu_zone",
+      "metadata": {}
+    },
+    {
+      "id": "oro_adama_liyu_zone__dabe_hangatu",
+      "name": "Dabe – Hangatu",
+      "zoneId": "oro_adama_liyu_zone",
+      "metadata": {}
+    },
+    {
+      "id": "oro_adama_liyu_zone__lugo_barecha",
+      "name": "Lugo – Barecha",
+      "zoneId": "oro_adama_liyu_zone",
+      "metadata": {}
+    },
+    {
+      "id": "oro_adama_liyu_zone__lugo_migira",
+      "name": "Lugo – Migira",
+      "zoneId": "oro_adama_liyu_zone",
+      "metadata": {}
+    },
+    {
+      "id": "oro_adama_liyu_zone__lugo_dire_naga",
+      "name": "Lugo – Dire Naga",
+      "zoneId": "oro_adama_liyu_zone",
+      "metadata": {}
+    },
+    {
+      "id": "oro_adama_liyu_zone__dembela_irecha",
+      "name": "Dembela – Irecha",
+      "zoneId": "oro_adama_liyu_zone",
+      "metadata": {}
+    },
+    {
+      "id": "oro_adama_liyu_zone__dembela_melka_adama",
+      "name": "Dembela – Melka Adama",
+      "zoneId": "oro_adama_liyu_zone",
+      "metadata": {}
+    },
+    {
+      "id": "oro_adama_liyu_zone__dembela_wonji",
+      "name": "Dembela – Wonji",
+      "zoneId": "oro_adama_liyu_zone",
+      "metadata": {}
+    },
+    {
+      "id": "oro_adama_liyu_zone__boku_shan_haroreti",
+      "name": "Boku Shan – Haroreti",
+      "zoneId": "oro_adama_liyu_zone",
+      "metadata": {}
+    },
+    {
+      "id": "oro_adama_liyu_zone__boku_shan_torban_oboo",
+      "name": "Boku Shan – Torban Oboo",
+      "zoneId": "oro_adama_liyu_zone",
+      "metadata": {}
+    },
+    {
+      "id": "oro_adama_liyu_zone__boku_shan_awash_melkasa",
+      "name": "Boku Shan – Awash Melkasa",
+      "zoneId": "oro_adama_liyu_zone",
+      "metadata": {}
+    },
+    {
+      "id": "oro_agaro_city_administration__agaro_town",
+      "name": "Agaro Town",
+      "zoneId": "oro_agaro_city_administration",
+      "metadata": {}
+    },
+    {
+      "id": "oro_shashemane_town__alache_melka_badesa",
+      "name": "Alache – Melka Badesa",
+      "zoneId": "oro_shashemane_town",
+      "metadata": {}
+    },
+    {
+      "id": "oro_shashemane_town__alache_awasho",
+      "name": "Alache – Awasho",
+      "zoneId": "oro_shashemane_town",
+      "metadata": {}
+    },
+    {
+      "id": "oro_shashemane_town__alache_dida_boke",
+      "name": "Alache – Dida Boke",
+      "zoneId": "oro_shashemane_town",
+      "metadata": {}
+    },
+    {
+      "id": "oro_shashemane_town__melka_sirba_kerara_filicha",
+      "name": "Melka Sirba – Kerara Filicha",
+      "zoneId": "oro_shashemane_town",
+      "metadata": {}
+    },
+    {
+      "id": "oro_shashemane_town__melka_sirba_ido_lencha",
+      "name": "Melka Sirba – Ido Lencha",
+      "zoneId": "oro_shashemane_town",
+      "metadata": {}
+    },
+    {
+      "id": "oro_shashemane_town__melka_sirba_bute_filicha",
+      "name": "Melka Sirba – Bute Filicha",
+      "zoneId": "oro_shashemane_town",
+      "metadata": {}
+    },
+    {
+      "id": "oro_shashemane_town__harufa_bulchana",
+      "name": "Harufa – Bulchana",
+      "zoneId": "oro_shashemane_town",
+      "metadata": {}
+    },
+    {
+      "id": "oro_shashemane_town__harufa_alelu",
+      "name": "Harufa – Alelu",
+      "zoneId": "oro_shashemane_town",
+      "metadata": {}
+    },
+    {
+      "id": "oro_shashemane_town__harufa_meja_dema",
+      "name": "Harufa – Meja Dema",
+      "zoneId": "oro_shashemane_town",
+      "metadata": {}
+    },
+    {
+      "id": "oro_shashemane_town__bishan_gurecha_habas",
+      "name": "Bishan Gurecha – Habas",
+      "zoneId": "oro_shashemane_town",
+      "metadata": {}
+    },
+    {
+      "id": "oro_shashemane_town__bishan_gurecha_alge_rima",
+      "name": "Bishan Gurecha – Alge Rima",
+      "zoneId": "oro_shashemane_town",
+      "metadata": {}
+    },
+    {
+      "id": "oro_shashemane_town__bishan_gurecha_toga",
+      "name": "Bishan Gurecha – Toga",
+      "zoneId": "oro_shashemane_town",
+      "metadata": {}
+    },
+    {
+      "id": "oro_sheger__mana_abichu_tufa_muna",
+      "name": "Tufa Muna",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Mana Abichu"
+      }
+    },
+    {
+      "id": "oro_sheger__sululta_wasarbi",
+      "name": "Wasarbi",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Sululta"
+      }
+    },
+    {
+      "id": "oro_sheger__legetafo_legedadi_eka_saden",
+      "name": "Eka Saden",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Legetafo Legedadi"
+      }
+    },
+    {
+      "id": "oro_sheger__kura_jida_dire_sekoru",
+      "name": "Dire Sekoru",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Kura Jida"
+      }
+    },
+    {
+      "id": "oro_sheger__gelan_andode",
+      "name": "Andode",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Gelan"
+      }
+    },
+    {
+      "id": "oro_sheger__koye_feche_wedassa",
+      "name": "Wedassa",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Koye Feche"
+      }
+    },
+    {
+      "id": "oro_sheger__gelan_guda_dalleti",
+      "name": "Dalleti",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Gelan Guda"
+      }
+    },
+    {
+      "id": "oro_sheger__sebeta_mogle",
+      "name": "Mogle",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Sebeta"
+      }
+    },
+    {
+      "id": "oro_sheger__furi_geda_faji",
+      "name": "Geda Faji",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Furi"
+      }
+    },
+    {
+      "id": "oro_sheger__malka_nono_bero",
+      "name": "Bero",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Malka Nono"
+      }
+    },
+    {
+      "id": "oro_sheger__burayu_anne_dima",
+      "name": "Anne Dima",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Burayu"
+      }
+    },
+    {
+      "id": "oro_sheger__gefersa_guje_kolobo",
+      "name": "Kolobo",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Gefersa Guje"
+      }
+    },
+    {
+      "id": "oro_sheger__mana_abichu_akako",
+      "name": "Akako",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Mana Abichu"
+      }
+    },
+    {
+      "id": "oro_sheger__sululta_abbaa_gadaa",
+      "name": "Abbaa Gadaa",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Sululta"
+      }
+    },
+    {
+      "id": "oro_sheger__legetafo_legedadi_lege_dadi_dale",
+      "name": "Lege Dadi Dale",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Legetafo Legedadi"
+      }
+    },
+    {
+      "id": "oro_sheger__kura_jida_welgaho_legaberi",
+      "name": "Welgaho Legaberi",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Kura Jida"
+      }
+    },
+    {
+      "id": "oro_sheger__gelan_sida_awash",
+      "name": "Sida Awash",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Gelan"
+      }
+    },
+    {
+      "id": "oro_sheger__koye_feche_tulu_dimtu",
+      "name": "Tulu Dimtu",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Koye Feche"
+      }
+    },
+    {
+      "id": "oro_sheger__gelan_guda_gelan_guda",
+      "name": "Gelan Guda",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Gelan Guda"
+      }
+    },
+    {
+      "id": "oro_sheger__sebeta_metta",
+      "name": "Metta",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Sebeta"
+      }
+    },
+    {
+      "id": "oro_sheger__furi_chefe_karabu",
+      "name": "Chefe Karabu",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Furi"
+      }
+    },
+    {
+      "id": "oro_sheger__malka_nono_malka_gafarsa",
+      "name": "Malka Gafarsa",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Malka Nono"
+      }
+    },
+    {
+      "id": "oro_sheger__burayu_gefersa_burayu",
+      "name": "Gefersa Burayu",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Burayu"
+      }
+    },
+    {
+      "id": "oro_sheger__gelan_guda_lekule_geja",
+      "name": "Lekule Geja",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Gelan Guda"
+      }
+    },
+    {
+      "id": "oro_sheger__sebeta_caffe",
+      "name": "Caffe",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Sebeta"
+      }
+    },
+    {
+      "id": "oro_sheger__furi_muda_furi",
+      "name": "Muda Furi",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Furi"
+      }
+    },
+    {
+      "id": "oro_sheger__malka_nono_nonno",
+      "name": "Nonno",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Malka Nono"
+      }
+    },
+    {
+      "id": "oro_sheger__burayu_katta",
+      "name": "Katta",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Burayu"
+      }
+    },
+    {
+      "id": "oro_sheger__gefersa_guje_egdu",
+      "name": "Egdu",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Gefersa Guje"
+      }
+    },
+    {
+      "id": "oro_sheger__burayu_ejersa_goro",
+      "name": "Ejersa Goro",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Burayu"
+      }
+    },
+    {
+      "id": "oro_sheger__guje_gefersa_guje",
+      "name": "Guje",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Guje Gefersa"
+      }
+    },
+    {
+      "id": "oro_sheger__gefersa_guje_guddu",
+      "name": "Guddu",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Gefersa Guje"
+      }
+    },
+    {
+      "id": "oro_sheger__legetafo_legedadi_denbel_tafo",
+      "name": "Denbel Tafo",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Legetafo Legedadi"
+      }
+    },
+    {
+      "id": "oro_sheger__kura_jida_kura_jida",
+      "name": "Kura Jida",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Kura Jida"
+      }
+    },
+    {
+      "id": "oro_sheger__gelan_gelan",
+      "name": "Gelan",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Gelan"
+      }
+    },
+    {
+      "id": "oro_sheger__koye_feche_gelan_arebsa",
+      "name": "Gelan Arebsa",
+      "zoneId": "oro_sheger",
+      "metadata": {
+        "subCity": "Koye Feche"
+      }
+    },
+    {
+      "id": "oro_bishoftu__dukem_oda_nebe",
+      "name": "Oda Nebe",
+      "zoneId": "oro_bishoftu",
+      "metadata": {
+        "subCity": "Dukem"
+      }
+    },
+    {
+      "id": "oro_bishoftu__cheleka_erer",
+      "name": "Erer",
+      "zoneId": "oro_bishoftu",
+      "metadata": {
+        "subCity": "Cheleka"
+      }
+    },
+    {
+      "id": "oro_bishoftu__dibayu_deka_bora",
+      "name": "Deka Bora",
+      "zoneId": "oro_bishoftu",
+      "metadata": {
+        "subCity": "Dibayu"
+      }
+    },
+    {
+      "id": "oro_bishoftu__dukem_tedecha",
+      "name": "Tedecha",
+      "zoneId": "oro_bishoftu",
+      "metadata": {
+        "subCity": "Dukem"
+      }
+    },
+    {
+      "id": "oro_bishoftu__cheleka_arsede",
+      "name": "Arsede",
+      "zoneId": "oro_bishoftu",
+      "metadata": {
+        "subCity": "Cheleka"
+      }
+    },
+    {
+      "id": "oro_bishoftu__dibayu_dire",
+      "name": "Dire",
+      "zoneId": "oro_bishoftu",
+      "metadata": {
+        "subCity": "Dibayu"
+      }
+    },
+    {
+      "id": "oro_bishoftu__dukem_melka",
+      "name": "Melka",
+      "zoneId": "oro_bishoftu",
+      "metadata": {
+        "subCity": "Dukem"
+      }
+    },
+    {
+      "id": "oro_bishoftu__cheleka_kilole",
+      "name": "Kilole",
+      "zoneId": "oro_bishoftu",
+      "metadata": {
+        "subCity": "Cheleka"
+      }
+    },
+    {
+      "id": "oro_bishoftu__dibayu_hora",
+      "name": "Hora",
+      "zoneId": "oro_bishoftu",
+      "metadata": {
+        "subCity": "Dibayu"
+      }
+    },
+    {
+      "id": "oro_bishoftu__dukem_abusera",
+      "name": "Abusera",
+      "zoneId": "oro_bishoftu",
+      "metadata": {
+        "subCity": "Dukem"
+      }
+    },
+    {
+      "id": "oro_bishoftu__dibayu_biftu",
+      "name": "Biftu",
+      "zoneId": "oro_bishoftu",
+      "metadata": {
+        "subCity": "Dibayu"
+      }
+    },
+    {
+      "id": "afr_zone_1_awsiresu__dubti",
+      "name": "Dubti",
+      "zoneId": "afr_zone_1_awsiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_1_awsiresu__elidar",
+      "name": "Elidar",
+      "zoneId": "afr_zone_1_awsiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_1_awsiresu__aysayita",
+      "name": "Aysayita",
+      "zoneId": "afr_zone_1_awsiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_1_awsiresu__afambo",
+      "name": "Afambo",
+      "zoneId": "afr_zone_1_awsiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_1_awsiresu__mile",
+      "name": "Mile",
+      "zoneId": "afr_zone_1_awsiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_1_awsiresu__chifra",
+      "name": "Chifra",
+      "zoneId": "afr_zone_1_awsiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_1_awsiresu__kori",
+      "name": "Kori",
+      "zoneId": "afr_zone_1_awsiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_1_awsiresu__adear",
+      "name": "Adear",
+      "zoneId": "afr_zone_1_awsiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_1_awsiresu__aysaita_ketema_astedader",
+      "name": "Aysaita Ketema Astedader",
+      "zoneId": "afr_zone_1_awsiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_1_awsiresu__dubti_ketema_astedader",
+      "name": "Dubti Ketema Astedader",
+      "zoneId": "afr_zone_1_awsiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_1_awsiresu__mile_ketema_astedader",
+      "name": "Mile Ketema Astedader",
+      "zoneId": "afr_zone_1_awsiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_1_awsiresu__chifra_ketema_astedader",
+      "name": "Chifra Ketema Astedader",
+      "zoneId": "afr_zone_1_awsiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_2_kelbetiresu__erebti",
+      "name": "Erebti",
+      "zoneId": "afr_zone_2_kelbetiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_2_kelbetiresu__kuneba",
+      "name": "Kuneba",
+      "zoneId": "afr_zone_2_kelbetiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_2_kelbetiresu__abeala",
+      "name": "Abeala",
+      "zoneId": "afr_zone_2_kelbetiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_2_kelbetiresu__megale",
+      "name": "Megale",
+      "zoneId": "afr_zone_2_kelbetiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_2_kelbetiresu__berehale",
+      "name": "Berehale",
+      "zoneId": "afr_zone_2_kelbetiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_2_kelbetiresu__dalol",
+      "name": "Dalol",
+      "zoneId": "afr_zone_2_kelbetiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_2_kelbetiresu__afdera",
+      "name": "Afdera",
+      "zoneId": "afr_zone_2_kelbetiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_2_kelbetiresu__bidu",
+      "name": "Bidu",
+      "zoneId": "afr_zone_2_kelbetiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_2_kelbetiresu__abala_ketema_astedader",
+      "name": "Abala Ketema Astedader",
+      "zoneId": "afr_zone_2_kelbetiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_2_kelbetiresu__wesema",
+      "name": "Wesema",
+      "zoneId": "afr_zone_2_kelbetiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_3_gebiresu__amibara",
+      "name": "Amibara",
+      "zoneId": "afr_zone_3_gebiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_3_gebiresu__awash_fentale",
+      "name": "Awash Fentale",
+      "zoneId": "afr_zone_3_gebiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_3_gebiresu__gewane",
+      "name": "Gewane",
+      "zoneId": "afr_zone_3_gebiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_3_gebiresu__dulesa",
+      "name": "Dulesa",
+      "zoneId": "afr_zone_3_gebiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_3_gebiresu__awash_ketema_astedader",
+      "name": "Awash Ketema Astedader",
+      "zoneId": "afr_zone_3_gebiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_3_gebiresu__argoba_liyu",
+      "name": "Argoba Liyu",
+      "zoneId": "afr_zone_3_gebiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_3_gebiresu__gelalo",
+      "name": "Gelalo",
+      "zoneId": "afr_zone_3_gebiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_3_gebiresu__abida",
+      "name": "Abida",
+      "zoneId": "afr_zone_3_gebiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_3_gebiresu__buri_mudayitu",
+      "name": "Buri Mudayitu",
+      "zoneId": "afr_zone_3_gebiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_3_gebiresu__haruka",
+      "name": "Haruka",
+      "zoneId": "afr_zone_3_gebiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_3_gebiresu__werer_ketema_astedader",
+      "name": "Werer Ketema Astedader",
+      "zoneId": "afr_zone_3_gebiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_4_fentiresu__awra",
+      "name": "Awra",
+      "zoneId": "afr_zone_4_fentiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_4_fentiresu__ewa",
+      "name": "Ewa",
+      "zoneId": "afr_zone_4_fentiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_4_fentiresu__teru",
+      "name": "Teru",
+      "zoneId": "afr_zone_4_fentiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_4_fentiresu__yalo",
+      "name": "Yalo",
+      "zoneId": "afr_zone_4_fentiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_4_fentiresu__golina",
+      "name": "Golina",
+      "zoneId": "afr_zone_4_fentiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_4_fentiresu__mabay",
+      "name": "Mabay",
+      "zoneId": "afr_zone_4_fentiresu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_5_hari_resu__telalak",
+      "name": "Telalak",
+      "zoneId": "afr_zone_5_hari_resu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_5_hari_resu__semurobi",
+      "name": "Semurobi",
+      "zoneId": "afr_zone_5_hari_resu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_5_hari_resu__dewe",
+      "name": "Dewe",
+      "zoneId": "afr_zone_5_hari_resu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_5_hari_resu__dalifage",
+      "name": "Dalifage",
+      "zoneId": "afr_zone_5_hari_resu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_zone_5_hari_resu__hadele_ela",
+      "name": "Hadele'ela",
+      "zoneId": "afr_zone_5_hari_resu",
+      "metadata": {}
+    },
+    {
+      "id": "afr_mahiresu_zone_6__gereni",
+      "name": "Gereni",
+      "zoneId": "afr_mahiresu_zone_6",
+      "metadata": {}
+    },
+    {
+      "id": "afr_mahiresu_zone_6__kilalu",
+      "name": "Kilalu",
+      "zoneId": "afr_mahiresu_zone_6",
+      "metadata": {}
+    },
+    {
+      "id": "afr_mahiresu_zone_6__yangudi",
+      "name": "Yangudi",
+      "zoneId": "afr_mahiresu_zone_6",
+      "metadata": {}
+    },
+    {
+      "id": "afr_mahiresu_zone_6__sibaybi",
+      "name": "Sibaybi",
+      "zoneId": "afr_mahiresu_zone_6",
+      "metadata": {}
+    },
+    {
+      "id": "afr_mahiresu_zone_6__adaado",
+      "name": "Adaado",
+      "zoneId": "afr_mahiresu_zone_6",
+      "metadata": {}
+    },
+    {
+      "id": "afr_semera_logia_city__semera_city_semera_c_city",
+      "name": "Semera City – Semera C/City",
+      "zoneId": "afr_semera_logia_city",
+      "metadata": {}
+    },
+    {
+      "id": "afr_semera_logia_city__logia_city_logia_c_city",
+      "name": "Logia City – Logia C/City",
+      "zoneId": "afr_semera_logia_city",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_north_west__tahtay_adiyabo",
+      "name": "Tahtay Adiyabo",
+      "zoneId": "tgr_north_west",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_north_west__shiraro",
+      "name": "Shiraro",
+      "zoneId": "tgr_north_west",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_north_west__adi_awlalo_adi_hageray",
+      "name": "Adi Awlalo/Adi Hageray",
+      "zoneId": "tgr_north_west",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_north_west__laelay_adiyabo",
+      "name": "Laelay Adiyabo",
+      "zoneId": "tgr_north_west",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_north_west__adidaero",
+      "name": "Adidaero",
+      "zoneId": "tgr_north_west",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_north_west__asegede",
+      "name": "Asegede",
+      "zoneId": "tgr_north_west",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_north_west__tselemt",
+      "name": "Tselemt",
+      "zoneId": "tgr_north_west",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_north_west__maytsebri",
+      "name": "Maytsebri",
+      "zoneId": "tgr_north_west",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_north_west__tismbila",
+      "name": "Tismbila",
+      "zoneId": "tgr_north_west",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_north_west__endabaguna",
+      "name": "Endabaguna",
+      "zoneId": "tgr_north_west",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_north_west__tahtay_qoraro",
+      "name": "Tahtay Qoraro",
+      "zoneId": "tgr_north_west",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_north_west__shire_enda_silassie",
+      "name": "Shire Enda Silassie",
+      "zoneId": "tgr_north_west",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_north_west__selekleka",
+      "name": "Selekleka",
+      "zoneId": "tgr_north_west",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_north_west__zana",
+      "name": "Zana",
+      "zoneId": "tgr_north_west",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_north_west__dima",
+      "name": "Dima",
+      "zoneId": "tgr_north_west",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_mehakelawi__chila",
+      "name": "Chila",
+      "zoneId": "tgr_mehakelawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_mehakelawi__rama_ketama",
+      "name": "Rama ketama",
+      "zoneId": "tgr_mehakelawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_mehakelawi__hahisia",
+      "name": "Hahisia",
+      "zoneId": "tgr_mehakelawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_mehakelawi__igala",
+      "name": "Igala",
+      "zoneId": "tgr_mehakelawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_mehakelawi__ahiferom",
+      "name": "Ahiferom",
+      "zoneId": "tgr_mehakelawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_mehakelawi__entucho",
+      "name": "Entucho",
+      "zoneId": "tgr_mehakelawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_mehakelawi__emba_sanayti",
+      "name": "Emba sanayti",
+      "zoneId": "tgr_mehakelawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_mehakelawi__endaga_arbi_ketama",
+      "name": "Endaga Arbi Ketama",
+      "zoneId": "tgr_mehakelawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_mehakelawi__hahayila",
+      "name": "Hahayila",
+      "zoneId": "tgr_mehakelawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_mehakelawi__adwa",
+      "name": "Adwa",
+      "zoneId": "tgr_mehakelawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_mehakelawi__adwa_town",
+      "name": "Adwa town",
+      "zoneId": "tgr_mehakelawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_mehakelawi__layilahi_maychawi",
+      "name": "Layilahi Maychawi",
+      "zoneId": "tgr_mehakelawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_mehakelawi__axsum",
+      "name": "Axsum",
+      "zoneId": "tgr_mehakelawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_mehakelawi__taytayi_maychawi",
+      "name": "Taytayi Maychawi",
+      "zoneId": "tgr_mehakelawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_mehakelawi__adet",
+      "name": "Adet",
+      "zoneId": "tgr_mehakelawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_mehakelawi__nahider",
+      "name": "Nahider",
+      "zoneId": "tgr_mehakelawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_mehakelawi__enda_falasii",
+      "name": "Enda falasii",
+      "zoneId": "tgr_mehakelawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_mehakelawi__kayih_takli",
+      "name": "KAYIH TAKLI",
+      "zoneId": "tgr_mehakelawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_mehakelawi__abbi_addy",
+      "name": "Abbi Addy",
+      "zoneId": "tgr_mehakelawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_mehakelawi__kola_tembyen",
+      "name": "Kola Tembyen",
+      "zoneId": "tgr_mehakelawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_mehakelawi__tankow_milash",
+      "name": "Tankow milash",
+      "zoneId": "tgr_mehakelawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_mehakelawi__yechila_abergala",
+      "name": "Yechila/Abergala",
+      "zoneId": "tgr_mehakelawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_eastawi__1_zalanbesa",
+      "name": "Zalanbesa",
+      "zoneId": "tgr_eastawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_eastawi__1_gulo_meheda",
+      "name": "Gulo Meheda",
+      "zoneId": "tgr_eastawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_eastawi__2_gulo_meheda",
+      "name": "Gulo Meheda",
+      "zoneId": "tgr_eastawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_eastawi__8_gulo_meheda",
+      "name": "Gulo Meheda",
+      "zoneId": "tgr_eastawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_eastawi__1_erob",
+      "name": "Erob",
+      "zoneId": "tgr_eastawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_eastawi__8_erob",
+      "name": "Erob",
+      "zoneId": "tgr_eastawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_eastawi__1_saesi_tsadamba",
+      "name": "Saesi Tsadamba",
+      "zoneId": "tgr_eastawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_eastawi__1_freweyni",
+      "name": "Freweyni",
+      "zoneId": "tgr_eastawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_eastawi__8_saesi",
+      "name": "Saesi",
+      "zoneId": "tgr_eastawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_eastawi__8_ganta_afeshum",
+      "name": "Ganta Afeshum",
+      "zoneId": "tgr_eastawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_eastawi__1_bizet",
+      "name": "Bizet",
+      "zoneId": "tgr_eastawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_eastawi__8_bizet",
+      "name": "Bizet",
+      "zoneId": "tgr_eastawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_eastawi__1_hawuzen",
+      "name": "Hawuzen",
+      "zoneId": "tgr_eastawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_eastawi__2_hawuzen",
+      "name": "Hawuzen",
+      "zoneId": "tgr_eastawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_eastawi__8_hawuzen",
+      "name": "Hawuzen",
+      "zoneId": "tgr_eastawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_eastawi__1_atsbii_endaselasse",
+      "name": "Atsbii/Endaselasse",
+      "zoneId": "tgr_eastawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_eastawi__8_tsadamba",
+      "name": "Tsadamba",
+      "zoneId": "tgr_eastawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_eastawi__1_adigrat",
+      "name": "Adigrat",
+      "zoneId": "tgr_eastawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_eastawi__1_atsibi",
+      "name": "Atsibi",
+      "zoneId": "tgr_eastawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_eastawi__8_atsibi",
+      "name": "Atsibi",
+      "zoneId": "tgr_eastawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_eastawi__1_kilte_awlalo",
+      "name": "Kilte Awlalo",
+      "zoneId": "tgr_eastawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_eastawi__8_kilte_awlalo",
+      "name": "Kilte Awlalo",
+      "zoneId": "tgr_eastawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_eastawi__1_gere_halita",
+      "name": "Gere Halita",
+      "zoneId": "tgr_eastawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_eastawi__8_gere_halita",
+      "name": "Gere Halita",
+      "zoneId": "tgr_eastawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_eastawi__1_agulehi",
+      "name": "Agulehi",
+      "zoneId": "tgr_eastawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_eastawi__2_agulehi",
+      "name": "Agulehi",
+      "zoneId": "tgr_eastawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_eastawi__8_agulehi",
+      "name": "Agulehi",
+      "zoneId": "tgr_eastawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_eastawi__1_wukro",
+      "name": "Wukro",
+      "zoneId": "tgr_eastawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_southawi__silawa",
+      "name": "Silawa",
+      "zoneId": "tgr_southawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_southawi__amba_alaje",
+      "name": "Amba Alaje",
+      "zoneId": "tgr_southawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_southawi__raya_azebo",
+      "name": "Raya Azebo",
+      "zoneId": "tgr_southawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_southawi__mehoni_ketema",
+      "name": "Mehoni Ketema",
+      "zoneId": "tgr_southawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_southawi__endamehoni",
+      "name": "Endamehoni",
+      "zoneId": "tgr_southawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_southawi__maychew",
+      "name": "Maychew",
+      "zoneId": "tgr_southawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_southawi__bora",
+      "name": "Bora",
+      "zoneId": "tgr_southawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_southawi__neqasage",
+      "name": "Neqasage",
+      "zoneId": "tgr_southawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_southawi__ofla",
+      "name": "Ofla",
+      "zoneId": "tgr_southawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_southawi__korem",
+      "name": "Korem",
+      "zoneId": "tgr_southawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_southawi__zata",
+      "name": "Zata",
+      "zoneId": "tgr_southawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_southawi__alamata",
+      "name": "Alamata",
+      "zoneId": "tgr_southawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_southawi__alamata_ketema",
+      "name": "Alamata Ketema",
+      "zoneId": "tgr_southawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_southawi__chercher",
+      "name": "Chercher",
+      "zoneId": "tgr_southawi",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_mekele__ayder",
+      "name": "Ayder",
+      "zoneId": "tgr_mekele",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_mekele__north",
+      "name": "North",
+      "zoneId": "tgr_mekele",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_mekele__kedamay_weyane",
+      "name": "Kedamay Weyane",
+      "zoneId": "tgr_mekele",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_mekele__hawelti",
+      "name": "Hawelti",
+      "zoneId": "tgr_mekele",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_mekele__adihaki",
+      "name": "Adihaki",
+      "zoneId": "tgr_mekele",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_mekele__hadnet",
+      "name": "Hadnet",
+      "zoneId": "tgr_mekele",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_mekele__quiha",
+      "name": "Quiha",
+      "zoneId": "tgr_mekele",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_south_east__degua_temben",
+      "name": "Degua Temben",
+      "zoneId": "tgr_south_east",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_south_east__hagere_selam",
+      "name": "Hagere Selam",
+      "zoneId": "tgr_south_east",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_south_east__seharti",
+      "name": "Seharti",
+      "zoneId": "tgr_south_east",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_south_east__enderta",
+      "name": "Enderta",
+      "zoneId": "tgr_south_east",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_south_east__samri",
+      "name": "Samri",
+      "zoneId": "tgr_south_east",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_south_east__hintalo",
+      "name": "Hintalo",
+      "zoneId": "tgr_south_east",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_south_east__adigudom_town",
+      "name": "Adigudom Town",
+      "zoneId": "tgr_south_east",
+      "metadata": {}
+    },
+    {
+      "id": "tgr_south_east__wajirat",
+      "name": "Wajirat",
+      "zoneId": "tgr_south_east",
+      "metadata": {}
+    },
+    {
+      "id": "dd_dire_dawa_01_woreda_astedadar",
+      "name": "01 Woreda Astedadar",
+      "zoneId": "dd_dire_dawa",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "dd_dire_dawa_02_woreda_astedadar",
+      "name": "02 Woreda Astedadar",
+      "zoneId": "dd_dire_dawa",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "dd_dire_dawa_03_woreda_astedadar",
+      "name": "03 Woreda Astedadar",
+      "zoneId": "dd_dire_dawa",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "dd_dire_dawa_04_woreda_astedadar",
+      "name": "04 Woreda Astedadar",
+      "zoneId": "dd_dire_dawa",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "dd_dire_dawa_05_woreda_astedadar",
+      "name": "05 Woreda Astedadar",
+      "zoneId": "dd_dire_dawa",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "dd_dire_dawa_06_woreda_astedadar",
+      "name": "06 Woreda Astedadar",
+      "zoneId": "dd_dire_dawa",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "dd_dire_dawa_07_woreda_astedadar",
+      "name": "07 Woreda Astedadar",
+      "zoneId": "dd_dire_dawa",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "dd_dire_dawa_08_woreda_astedadar",
+      "name": "08 Woreda Astedadar",
+      "zoneId": "dd_dire_dawa",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "dd_dire_dawa_09_woreda_astedadar",
+      "name": "09 Woreda Astedadar",
+      "zoneId": "dd_dire_dawa",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "dd_dire_dawa_jaldesa_kelad",
+      "name": "Jaldesa/Kelad",
+      "zoneId": "dd_dire_dawa",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "dd_dire_dawa_biyo_awale",
+      "name": "Biyo Awale",
+      "zoneId": "dd_dire_dawa",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "dd_dire_dawa_wahil",
+      "name": "Wahil",
+      "zoneId": "dd_dire_dawa",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "dd_dire_dawa_aseliso",
+      "name": "Aseliso",
+      "zoneId": "dd_dire_dawa",
+      "metadata": {
+        "urban": true
+      }
+    },
+    {
+      "id": "amh_north_gonder__adi_arkay",
+      "name": "Adi Arkay",
+      "zoneId": "amh_north_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_gonder__beyeda",
+      "name": "Beyeda",
+      "zoneId": "amh_north_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_gonder__janamora",
+      "name": "Janamora",
+      "zoneId": "amh_north_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_gonder__debark",
+      "name": "Debark",
+      "zoneId": "amh_north_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_gonder__dabat",
+      "name": "Dabat",
+      "zoneId": "amh_north_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_gonder__telemit",
+      "name": "Telemit",
+      "zoneId": "amh_north_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_gonder__debark_city_administration",
+      "name": "Debark City Administration",
+      "zoneId": "amh_north_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_gonder__dabat_ketema_astedader",
+      "name": "Dabat Ketema Astedader",
+      "zoneId": "amh_north_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_gonder__ebinat",
+      "name": "Ebinat",
+      "zoneId": "amh_south_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_gonder__libokemkem",
+      "name": "Libokemkem",
+      "zoneId": "amh_south_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_gonder__fogera",
+      "name": "Fogera",
+      "zoneId": "amh_south_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_gonder__farta",
+      "name": "Farta",
+      "zoneId": "amh_south_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_gonder__lay_gayint",
+      "name": "Lay Gayint",
+      "zoneId": "amh_south_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_gonder__tach_gayint",
+      "name": "Tach Gayint",
+      "zoneId": "amh_south_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_gonder__simada",
+      "name": "Simada",
+      "zoneId": "amh_south_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_gonder__estie",
+      "name": "Estie",
+      "zoneId": "amh_south_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_gonder__dera",
+      "name": "Dera",
+      "zoneId": "amh_south_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_debre_tabor_city_admin__debre_tabor_city",
+      "name": "Debre Tabor city",
+      "zoneId": "amh_debre_tabor_city_admin",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_gonder__guna_begie_midir",
+      "name": "Guna Begie Midir",
+      "zoneId": "amh_south_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_gonder__addis_zemen",
+      "name": "Addis Zemen",
+      "zoneId": "amh_south_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_gonder__woreta",
+      "name": "Woreta",
+      "zoneId": "amh_south_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_gonder__andabet",
+      "name": "Andabet",
+      "zoneId": "amh_south_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_gonder__meketewa",
+      "name": "Meketewa",
+      "zoneId": "amh_south_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_gonder__nifas_mewcha",
+      "name": "Nifas Mewcha",
+      "zoneId": "amh_south_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_gonder__sedie_muja",
+      "name": "Sedie Muja",
+      "zoneId": "amh_south_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_gonder__mekane_eyesus",
+      "name": "Mekane Eyesus",
+      "zoneId": "amh_south_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_wello__bugna",
+      "name": "Bugna",
+      "zoneId": "amh_north_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_wello__raya_kobo",
+      "name": "Raya Kobo",
+      "zoneId": "amh_north_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_wello__gidan",
+      "name": "Gidan",
+      "zoneId": "amh_north_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_wello__meket",
+      "name": "Meket",
+      "zoneId": "amh_north_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_wello__wadila",
+      "name": "Wadila",
+      "zoneId": "amh_north_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_wello__mersa_ketema_astedader",
+      "name": "Mersa Ketema Astedader",
+      "zoneId": "amh_north_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_wello__gubalafto",
+      "name": "Gubalafto",
+      "zoneId": "amh_north_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_wello__habiru",
+      "name": "Habiru",
+      "zoneId": "amh_north_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_weldiya_city_admin__weldiya_ketema_astedader",
+      "name": "Weldiya Ketema Astedader",
+      "zoneId": "amh_weldiya_city_admin",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_wello__lasta",
+      "name": "Lasta",
+      "zoneId": "amh_north_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_wello__dawunt",
+      "name": "Dawunt",
+      "zoneId": "amh_north_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_wello__gazo",
+      "name": "Gazo",
+      "zoneId": "amh_north_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_wello__angot",
+      "name": "Angot",
+      "zoneId": "amh_north_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_wello__kobo_ketema",
+      "name": "Kobo Ketema",
+      "zoneId": "amh_north_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_wello__lalibela_ketema_astedader",
+      "name": "Lalibela Ketema Astedader",
+      "zoneId": "amh_north_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_wello__mekdela",
+      "name": "Mekdela",
+      "zoneId": "amh_south_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_wello__teneta",
+      "name": "Teneta",
+      "zoneId": "amh_south_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_wello__kutaber",
+      "name": "Kutaber",
+      "zoneId": "amh_south_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_wello__ambasel",
+      "name": "Ambasel",
+      "zoneId": "amh_south_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_wello__tehuledere",
+      "name": "Tehuledere",
+      "zoneId": "amh_south_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_wello__werebabo",
+      "name": "Werebabo",
+      "zoneId": "amh_south_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_wello__kalu",
+      "name": "Kalu",
+      "zoneId": "amh_south_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_wello__albuko",
+      "name": "Albuko",
+      "zoneId": "amh_south_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_wello__dessie_zuriya",
+      "name": "Dessie Zuriya",
+      "zoneId": "amh_south_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_wello__legambo",
+      "name": "Legambo",
+      "zoneId": "amh_south_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_wello__saynt_adjibar",
+      "name": "Saynt Adjibar",
+      "zoneId": "amh_south_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_wello__borena",
+      "name": "Borena",
+      "zoneId": "amh_south_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_wello__kelala",
+      "name": "Kelala",
+      "zoneId": "amh_south_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_wello__jama",
+      "name": "Jama",
+      "zoneId": "amh_south_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_wello__wereilu",
+      "name": "Wereilu",
+      "zoneId": "amh_south_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_wello__wogdie",
+      "name": "Wogdie",
+      "zoneId": "amh_south_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_kombolcha_town_administration__kombolcha_ketema_astedader",
+      "name": "Kombolcha Ketema Astedader",
+      "zoneId": "amh_kombolcha_town_administration",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_wello__mehal_sayint",
+      "name": "Mehal Sayint",
+      "zoneId": "amh_south_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_wello__legehida",
+      "name": "Legehida",
+      "zoneId": "amh_south_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_wello__mekane_selam_ketema_astedader",
+      "name": "Mekane Selam Ketema Astedader",
+      "zoneId": "amh_south_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_wello__haik",
+      "name": "Haik",
+      "zoneId": "amh_south_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_wello__wereilu_ketema_astedader",
+      "name": "Wereilu Ketema Astedader",
+      "zoneId": "amh_south_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_wello__delanta",
+      "name": "Delanta",
+      "zoneId": "amh_south_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_south_wello__argoba_liyu",
+      "name": "Argoba Liyu",
+      "zoneId": "amh_south_wello",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_shewa__mida_woremo",
+      "name": "Mida Woremo",
+      "zoneId": "amh_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_shewa__merehabetie",
+      "name": "Merehabetie",
+      "zoneId": "amh_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_shewa__ensaro",
+      "name": "Ensaro",
+      "zoneId": "amh_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_shewa__moretna_jiru",
+      "name": "Moretna Jiru",
+      "zoneId": "amh_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_shewa__menz_gera_midere",
+      "name": "Menz Gera Midere",
+      "zoneId": "amh_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_shewa__geshe",
+      "name": "Geshe",
+      "zoneId": "amh_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_shewa__antsokia_gemza",
+      "name": "Antsokia Gemza",
+      "zoneId": "amh_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_shewa__efratana_gidim",
+      "name": "Efratana Gidim",
+      "zoneId": "amh_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_shewa__menz_mama_midir",
+      "name": "Menz Mama Midir",
+      "zoneId": "amh_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_shewa__tarmaber",
+      "name": "Tarmaber",
+      "zoneId": "amh_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_shewa__mojana_wedera",
+      "name": "Mojana Wedera",
+      "zoneId": "amh_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_shewa__kewot",
+      "name": "Kewot",
+      "zoneId": "amh_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_shewa__angolelana_tera",
+      "name": "Angolelana tera",
+      "zoneId": "amh_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_shewa__asagrt",
+      "name": "Asagrt",
+      "zoneId": "amh_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_shewa__ankober",
+      "name": "Ankober",
+      "zoneId": "amh_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_shewa__hagere_maryam_kesem",
+      "name": "Hagere Maryam Kesem",
+      "zoneId": "amh_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_shewa__berehet",
+      "name": "Berehet",
+      "zoneId": "amh_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_shewa__minjar_shonkora",
+      "name": "Minjar Shonkora",
+      "zoneId": "amh_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_shewa__basso_ena_werena",
+      "name": "Basso Ena Werena",
+      "zoneId": "amh_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "amh_debre_birhan_town_administration__debre_birhan",
+      "name": "Debre Birhan",
+      "zoneId": "amh_debre_birhan_town_administration",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_shewa__menz_keya_gebrael",
+      "name": "Menz Keya Gebrael",
+      "zoneId": "amh_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_shewa__menzlalo_midir",
+      "name": "Menzlalo midir",
+      "zoneId": "amh_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_shewa__siya_debirna_wayu",
+      "name": "Siya Debirna Wayu",
+      "zoneId": "amh_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_shewa__shewarobit_town_administration",
+      "name": "Shewarobit Town Administration",
+      "zoneId": "amh_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_shewa__ataye_town_administration",
+      "name": "Ataye Town Administration",
+      "zoneId": "amh_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_shewa__mehalmeda",
+      "name": "Mehalmeda",
+      "zoneId": "amh_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_shewa__alemketema_town_adminstration",
+      "name": "Alemketema Town Adminstration",
+      "zoneId": "amh_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_shewa__eenewari_town_adminstration",
+      "name": "Eenewari Town Adminstration",
+      "zoneId": "amh_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_shewa__molale_town_administration",
+      "name": "Molale Town Administration",
+      "zoneId": "amh_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_shewa__debre_sina_town_adminstration",
+      "name": "Debre sina Town Adminstration",
+      "zoneId": "amh_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_shewa__bulga_town_administration",
+      "name": "Bulga Town Administration",
+      "zoneId": "amh_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_shewa__arerti_town_administration",
+      "name": "Arerti Town Administration",
+      "zoneId": "amh_north_shewa",
+      "metadata": {}
+    },
+    {
+      "id": "amh_east_gojjam__bibugn",
+      "name": "Bibugn",
+      "zoneId": "amh_east_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_east_gojjam__hulet_eju_enese",
+      "name": "Hulet Eju Enese",
+      "zoneId": "amh_east_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_east_gojjam__goncha_siso_enese",
+      "name": "Goncha Siso Enese",
+      "zoneId": "amh_east_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_east_gojjam__enebsie_sar_midir",
+      "name": "Enebsie Sar Midir",
+      "zoneId": "amh_east_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_east_gojjam__enarji_ena_enawuga",
+      "name": "Enarji Ena Enawuga",
+      "zoneId": "amh_east_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_east_gojjam__enemay",
+      "name": "Enemay",
+      "zoneId": "amh_east_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_east_gojjam__debay_tilat_gin",
+      "name": "Debay Tilat Gin",
+      "zoneId": "amh_east_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_east_gojjam__debre_elias",
+      "name": "Debre Elias",
+      "zoneId": "amh_east_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_east_gojjam__machakel",
+      "name": "Machakel",
+      "zoneId": "amh_east_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_east_gojjam__gozamen",
+      "name": "Gozamen",
+      "zoneId": "amh_east_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_east_gojjam__baso_liben",
+      "name": "Baso_liben",
+      "zoneId": "amh_east_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_east_gojjam__awabel",
+      "name": "Awabel",
+      "zoneId": "amh_east_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_east_gojjam__dejen",
+      "name": "Dejen",
+      "zoneId": "amh_east_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_east_gojjam__shebel_berenta",
+      "name": "Shebel Berenta",
+      "zoneId": "amh_east_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_debre_markos_city_admin__debre_markos",
+      "name": "Debre Markos",
+      "zoneId": "amh_debre_markos_city_admin",
+      "metadata": {}
+    },
+    {
+      "id": "amh_east_gojjam__sinan",
+      "name": "Sinan",
+      "zoneId": "amh_east_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_east_gojjam__aneded",
+      "name": "Aneded",
+      "zoneId": "amh_east_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_east_gojjam__mota_ketema_astedader",
+      "name": "Mota Ketema Astedader",
+      "zoneId": "amh_east_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_east_gojjam__sede",
+      "name": "Sede",
+      "zoneId": "amh_east_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_east_gojjam__dejen_ketema_astedader",
+      "name": "Dejen Ketema Astedader",
+      "zoneId": "amh_east_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_east_gojjam__bichena_ketema_astedader",
+      "name": "Bichena Ketema Astedader",
+      "zoneId": "amh_east_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_west_gojjam__sekela",
+      "name": "Sekela",
+      "zoneId": "amh_west_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_west_gojjam__quarit",
+      "name": "Quarit",
+      "zoneId": "amh_west_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_west_gojjam__dega_damot",
+      "name": "Dega Damot",
+      "zoneId": "amh_west_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_west_gojjam__dembecha",
+      "name": "Dembecha",
+      "zoneId": "amh_west_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_west_gojjam__jebitehnan",
+      "name": "Jebitehnan",
+      "zoneId": "amh_west_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_west_gojjam__burie_zuria",
+      "name": "Burie Zuria",
+      "zoneId": "amh_west_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_west_gojjam__womberma",
+      "name": "Womberma",
+      "zoneId": "amh_west_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_west_gojjam__finoteselam_ketema_astedader",
+      "name": "Finoteselam Ketema Astedader",
+      "zoneId": "amh_west_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_west_gojjam__dembecha_ketema_astedader",
+      "name": "Dembecha Ketema Astedader",
+      "zoneId": "amh_west_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_west_gojjam__burie_ketema_astedader",
+      "name": "Burie Ketema Astedader",
+      "zoneId": "amh_west_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_waghimra__zikuala",
+      "name": "Zikuala",
+      "zoneId": "amh_waghimra",
+      "metadata": {}
+    },
+    {
+      "id": "amh_waghimra__sekota_ketema_astedader",
+      "name": "Sekota Ketema Astedader",
+      "zoneId": "amh_waghimra",
+      "metadata": {}
+    },
+    {
+      "id": "amh_waghimra__dehana",
+      "name": "Dehana",
+      "zoneId": "amh_waghimra",
+      "metadata": {}
+    },
+    {
+      "id": "amh_waghimra__gazgibla",
+      "name": "Gazgibla",
+      "zoneId": "amh_waghimra",
+      "metadata": {}
+    },
+    {
+      "id": "amh_waghimra__abergele",
+      "name": "Abergele",
+      "zoneId": "amh_waghimra",
+      "metadata": {}
+    },
+    {
+      "id": "amh_waghimra__sahla_seyemt",
+      "name": "Sahla Seyemt",
+      "zoneId": "amh_waghimra",
+      "metadata": {}
+    },
+    {
+      "id": "amh_waghimra__sekota_zuria",
+      "name": "Sekota Zuria",
+      "zoneId": "amh_waghimra",
+      "metadata": {}
+    },
+    {
+      "id": "amh_waghimra__tsagibige",
+      "name": "Tsagibige",
+      "zoneId": "amh_waghimra",
+      "metadata": {}
+    },
+    {
+      "id": "amh_awi__dangila_zuriya",
+      "name": "Dangila zuriya",
+      "zoneId": "amh_awi",
+      "metadata": {}
+    },
+    {
+      "id": "amh_awi__banja_shigudad",
+      "name": "Banja Shigudad",
+      "zoneId": "amh_awi",
+      "metadata": {}
+    },
+    {
+      "id": "amh_awi__ankesha_guagusa",
+      "name": "Ankesha Guagusa",
+      "zoneId": "amh_awi",
+      "metadata": {}
+    },
+    {
+      "id": "amh_awi__guangua",
+      "name": "Guangua",
+      "zoneId": "amh_awi",
+      "metadata": {}
+    },
+    {
+      "id": "amh_awi__fagita_lekoma",
+      "name": "Fagita Lekoma",
+      "zoneId": "amh_awi",
+      "metadata": {}
+    },
+    {
+      "id": "amh_awi__jawi",
+      "name": "Jawi",
+      "zoneId": "amh_awi",
+      "metadata": {}
+    },
+    {
+      "id": "amh_awi__guagusashekudad",
+      "name": "Guagusashekudad",
+      "zoneId": "amh_awi",
+      "metadata": {}
+    },
+    {
+      "id": "amh_awi__zigem",
+      "name": "Zigem",
+      "zoneId": "amh_awi",
+      "metadata": {}
+    },
+    {
+      "id": "amh_awi__ayehu_guagusa",
+      "name": "Ayehu Guagusa",
+      "zoneId": "amh_awi",
+      "metadata": {}
+    },
+    {
+      "id": "amh_awi__chagini",
+      "name": "Chagini",
+      "zoneId": "amh_awi",
+      "metadata": {}
+    },
+    {
+      "id": "amh_awi__enjibara_ketema_astedader",
+      "name": "Enjibara Ketema Astedader",
+      "zoneId": "amh_awi",
+      "metadata": {}
+    },
+    {
+      "id": "amh_awi__dangla_ketema_astedader",
+      "name": "Dangla Ketema Astedader",
+      "zoneId": "amh_awi",
+      "metadata": {}
+    },
+    {
+      "id": "amh_oromiya_liyu_zone__dewa_chefa",
+      "name": "Dewa Chefa",
+      "zoneId": "amh_oromiya_liyu_zone",
+      "metadata": {}
+    },
+    {
+      "id": "amh_oromiya_liyu_zone__batti",
+      "name": "Batti",
+      "zoneId": "amh_oromiya_liyu_zone",
+      "metadata": {}
+    },
+    {
+      "id": "amh_oromiya_liyu_zone__jile_timuga",
+      "name": "Jile Timuga",
+      "zoneId": "amh_oromiya_liyu_zone",
+      "metadata": {}
+    },
+    {
+      "id": "amh_oromiya_liyu_zone__arituma_fursi",
+      "name": "Arituma Fursi",
+      "zoneId": "amh_oromiya_liyu_zone",
+      "metadata": {}
+    },
+    {
+      "id": "amh_oromiya_liyu_zone__dewe_harawa",
+      "name": "Dewe Harawa",
+      "zoneId": "amh_oromiya_liyu_zone",
+      "metadata": {}
+    },
+    {
+      "id": "amh_oromiya_liyu_zone__kemisse_town_administration",
+      "name": "Kemisse Town Administration",
+      "zoneId": "amh_oromiya_liyu_zone",
+      "metadata": {}
+    },
+    {
+      "id": "amh_oromiya_liyu_zone__bati_ketema_astedader",
+      "name": "Bati Ketema Astedader",
+      "zoneId": "amh_oromiya_liyu_zone",
+      "metadata": {}
+    },
+    {
+      "id": "amh_bahir_dar_city_administration__bahirdar_ketema_geter_and_tana_sub_city",
+      "name": "Bahirdar Ketema /Geter/ and Tana Sub City",
+      "zoneId": "amh_bahir_dar_city_administration",
+      "metadata": {}
+    },
+    {
+      "id": "amh_bahir_dar_city_administration__fasilo_sub_city",
+      "name": "Fasilo Sub City",
+      "zoneId": "amh_bahir_dar_city_administration",
+      "metadata": {}
+    },
+    {
+      "id": "amh_bahir_dar_city_administration__gishe_abay_sub_city",
+      "name": "Gishe Abay Sub City",
+      "zoneId": "amh_bahir_dar_city_administration",
+      "metadata": {}
+    },
+    {
+      "id": "amh_bahir_dar_city_administration__hidar_11_sub_city",
+      "name": "Hidar 11 Sub City",
+      "zoneId": "amh_bahir_dar_city_administration",
+      "metadata": {}
+    },
+    {
+      "id": "amh_bahir_dar_city_administration__belay_zeleke_sub_city",
+      "name": "Belay Zeleke Sub City",
+      "zoneId": "amh_bahir_dar_city_administration",
+      "metadata": {}
+    },
+    {
+      "id": "amh_bahir_dar_city_administration__ginbot_20_sub_city",
+      "name": "Ginbot 20 Sub City",
+      "zoneId": "amh_bahir_dar_city_administration",
+      "metadata": {}
+    },
+    {
+      "id": "amh_bahir_dar_city_administration__bahir_dar_ketema_zuria",
+      "name": "Bahir Dar Ketema Zuria",
+      "zoneId": "amh_bahir_dar_city_administration",
+      "metadata": {}
+    },
+    {
+      "id": "amh_dessie_town_administration__dessie_ketema_geter_and_menafesha_subcity",
+      "name": "Dessie Ketema /Geter/ and Menafesha Subcity",
+      "zoneId": "amh_dessie_town_administration",
+      "metadata": {}
+    },
+    {
+      "id": "amh_dessie_town_administration__banbawuha_sub_city",
+      "name": "Banbawuha Sub City",
+      "zoneId": "amh_dessie_town_administration",
+      "metadata": {}
+    },
+    {
+      "id": "amh_dessie_town_administration__hote_sub_city",
+      "name": "Hote Sub City",
+      "zoneId": "amh_dessie_town_administration",
+      "metadata": {}
+    },
+    {
+      "id": "amh_dessie_town_administration__arada_sub_city",
+      "name": "Arada Sub City",
+      "zoneId": "amh_dessie_town_administration",
+      "metadata": {}
+    },
+    {
+      "id": "amh_dessie_town_administration__segnogebeya_sub_city",
+      "name": "Segnogebeya Sub City",
+      "zoneId": "amh_dessie_town_administration",
+      "metadata": {}
+    },
+    {
+      "id": "amh_gondar_town_administration__gondar_ketama_geter_and_zobel_subcity",
+      "name": "Gondar Ketama /Geter/ and Zobel Subcity",
+      "zoneId": "amh_gondar_town_administration",
+      "metadata": {}
+    },
+    {
+      "id": "amh_gondar_town_administration__fasil_sub_city",
+      "name": "Fasil Sub City",
+      "zoneId": "amh_gondar_town_administration",
+      "metadata": {}
+    },
+    {
+      "id": "amh_gondar_town_administration__jantekel_sub_city",
+      "name": "Jantekel Sub City",
+      "zoneId": "amh_gondar_town_administration",
+      "metadata": {}
+    },
+    {
+      "id": "amh_gondar_town_administration__arada_sub_city",
+      "name": "Arada Sub City",
+      "zoneId": "amh_gondar_town_administration",
+      "metadata": {}
+    },
+    {
+      "id": "amh_gondar_town_administration__maraki_sub_city",
+      "name": "Maraki Sub City",
+      "zoneId": "amh_gondar_town_administration",
+      "metadata": {}
+    },
+    {
+      "id": "amh_gondar_town_administration__azezo_tseda_sub_city",
+      "name": "Azezo Tseda Sub City",
+      "zoneId": "amh_gondar_town_administration",
+      "metadata": {}
+    },
+    {
+      "id": "amh_central_gonder__tegedie",
+      "name": "Tegedie",
+      "zoneId": "amh_central_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_central_gonder__lay_armachiho",
+      "name": "Lay Armachiho",
+      "zoneId": "amh_central_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_central_gonder__wogera",
+      "name": "Wogera",
+      "zoneId": "amh_central_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_central_gonder__gonder_zuriya",
+      "name": "Gonder Zuriya",
+      "zoneId": "amh_central_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_central_gonder__alefa",
+      "name": "Alefa",
+      "zoneId": "amh_central_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_central_gonder__westbelesa",
+      "name": "Westbelesa",
+      "zoneId": "amh_central_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_central_gonder__east_belesa",
+      "name": "East Belesa",
+      "zoneId": "amh_central_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_central_gonder__tachi_armachiho",
+      "name": "Tachi Armachiho",
+      "zoneId": "amh_central_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_central_gonder__takusa",
+      "name": "Takusa",
+      "zoneId": "amh_central_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_central_gonder__kinfaz_begela",
+      "name": "Kinfaz Begela",
+      "zoneId": "amh_central_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_central_gonder__westdembiya",
+      "name": "Westdembiya",
+      "zoneId": "amh_central_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_central_gonder__east_dembiya",
+      "name": "East Dembiya",
+      "zoneId": "amh_central_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_central_gonder__chilga",
+      "name": "Chilga",
+      "zoneId": "amh_central_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_central_gonder__aykel_ketema_astedader",
+      "name": "Aykel Ketema Astedader",
+      "zoneId": "amh_central_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_west_gonder__west_armachiho",
+      "name": "West Armachiho",
+      "zoneId": "amh_west_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_west_gonder__quara",
+      "name": "Quara",
+      "zoneId": "amh_west_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_west_gonder__metema",
+      "name": "Metema",
+      "zoneId": "amh_west_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_west_gonder__midre_genet_ketema_astedader",
+      "name": "Midre Genet Ketema Astedader",
+      "zoneId": "amh_west_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_west_gonder__gendewuha_ketema",
+      "name": "Gendewuha Ketema",
+      "zoneId": "amh_west_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_west_gonder__metema_yohannes_ketema_astedader",
+      "name": "Metema Yohannes Ketema Astedader",
+      "zoneId": "amh_west_gonder",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_gojjam__north_achefer",
+      "name": "North Achefer",
+      "zoneId": "amh_north_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_gojjam__bahirdar_zuriya",
+      "name": "Bahirdar Zuriya",
+      "zoneId": "amh_north_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_gojjam__yilmana_densa",
+      "name": "Yilmana Densa",
+      "zoneId": "amh_north_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_gojjam__north_mecha",
+      "name": "North Mecha",
+      "zoneId": "amh_north_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_gojjam__gonje_kolela",
+      "name": "Gonje Kolela",
+      "zoneId": "amh_north_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_gojjam__south_achefer",
+      "name": "South Achefer",
+      "zoneId": "amh_north_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_gojjam__durbete_ketema_astedader",
+      "name": "Durbete Ketema Astedader",
+      "zoneId": "amh_north_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_gojjam__south_mecha",
+      "name": "South Mecha",
+      "zoneId": "amh_north_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_gojjam__adet_town_administration",
+      "name": "Adet Town Administration",
+      "zoneId": "amh_north_gojjam",
+      "metadata": {}
+    },
+    {
+      "id": "amh_north_gojjam__merawi_ketema_astedader",
+      "name": "Merawi Ketema Astedader",
+      "zoneId": "amh_north_gojjam",
+      "metadata": {}
+    }
+  ]
+}
