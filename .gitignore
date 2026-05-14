@@ -27,5 +27,6 @@ example/.dart_tool/
 example/build/
 
 # Local tooling / optional top-level data (not package assets under lib/)
+tool/
 tools/
 src/data/
